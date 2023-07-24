@@ -1,0 +1,2864 @@
+[INFO] [1681711945.884244, 3318.446000]: Get 16 obstacles
+Training
+Training from scratch.
+Learning... Running 400 timesteps per episode, 2048 timesteps per batch for a total of 200000000 timesteps
+
+-------------------- Iteration #1 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: -3.52
+Average Loss: -0.00428
+Timesteps So Far: 2400
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #2 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: -3.01
+Average Loss: -0.00487
+Timesteps So Far: 4800
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712058.078309, 3430.567000]: Collide with obstacle, reset!
+[INFO] [1681712073.407223, 3445.887000]: Collide with obstacle, reset!
+[INFO] [1681712089.055026, 3461.527000]: Collide with obstacle, reset!
+
+-------------------- Iteration #3 --------------------
+Average Episodic Length: 388.5
+Average Episodic Return: -4.59
+Average Loss: -0.00067
+Timesteps So Far: 7131
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712089.097110, 3461.569000]: Collide with obstacle, reset!
+[INFO] [1681712095.118397, 3467.587000]: Collide with obstacle, reset!
+[INFO] [1681712100.301726, 3472.767000]: Collide with obstacle, reset!
+[INFO] [1681712106.224627, 3478.687000]: Collide with obstacle, reset!
+[INFO] [1681712112.067449, 3484.527000]: Collide with obstacle, reset!
+[INFO] [1681712119.231714, 3491.687000]: Collide with obstacle, reset!
+[INFO] [1681712124.856919, 3497.307000]: Collide with obstacle, reset!
+[INFO] [1681712131.480409, 3503.927000]: Collide with obstacle, reset!
+
+-------------------- Iteration #4 --------------------
+Average Episodic Length: 264.0
+Average Episodic Return: -4.97
+Average Loss: -0.00069
+Timesteps So Far: 9243
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712137.443748, 3509.887000]: Collide with obstacle, reset!
+[INFO] [1681712144.346790, 3516.787000]: Collide with obstacle, reset!
+[INFO] [1681712158.194480, 3530.627000]: Collide with obstacle, reset!
+[INFO] [1681712164.399162, 3536.827000]: Collide with obstacle, reset!
+[INFO] [1681712179.729010, 3552.147000]: Collide with obstacle, reset!
+
+-------------------- Iteration #5 --------------------
+Average Episodic Length: 343.43
+Average Episodic Return: -5.11
+Average Loss: -0.00158
+Timesteps So Far: 11647
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712179.771488, 3552.189000]: Collide with obstacle, reset!
+[INFO] [1681712203.160959, 3575.567000]: Collide with obstacle, reset!
+[INFO] [1681712209.464278, 3581.867000]: Collide with obstacle, reset!
+
+-------------------- Iteration #6 --------------------
+Average Episodic Length: 325.86
+Average Episodic Return: -3.4
+Average Loss: -0.00159
+Timesteps So Far: 13928
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712232.698351, 3605.087000]: Collide with obstacle, reset!
+
+-------------------- Iteration #7 --------------------
+Average Episodic Length: 393.0
+Average Episodic Return: -3.68
+Average Loss: -0.00023
+Timesteps So Far: 16286
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #8 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: -3.79
+Average Loss: -0.00034
+Timesteps So Far: 18686
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #9 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: -2.07
+Average Loss: -0.00203
+Timesteps So Far: 21086
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #10 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: -2.33
+Average Loss: -0.00283
+Timesteps So Far: 23486
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712423.705773, 3795.987000]: Collide with obstacle, reset!
+[INFO] [1681712445.197054, 3817.467000]: Collide with obstacle, reset!
+[INFO] [1681712451.140035, 3823.407000]: Collide with obstacle, reset!
+[INFO] [1681712457.286561, 3829.547000]: Collide with obstacle, reset!
+[INFO] [1681712463.712335, 3835.967000]: Collide with obstacle, reset!
+
+-------------------- Iteration #11 --------------------
+Average Episodic Length: 330.57
+Average Episodic Return: -4.3
+Average Loss: -0.00033
+Timesteps So Far: 25800
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712463.752380, 3836.007000]: Collide with obstacle, reset!
+[INFO] [1681712469.815343, 3842.067000]: Collide with obstacle, reset!
+[INFO] [1681712476.559411, 3848.807000]: Collide with obstacle, reset!
+[INFO] [1681712482.483686, 3854.727000]: Collide with obstacle, reset!
+[INFO] [1681712487.506382, 3859.747000]: Collide with obstacle, reset!
+[INFO] [1681712492.788918, 3865.027000]: Collide with obstacle, reset!
+[INFO] [1681712499.652592, 3871.887000]: Collide with obstacle, reset!
+
+-------------------- Iteration #12 --------------------
+Average Episodic Length: 273.62
+Average Episodic Return: -5.47
+Average Loss: -0.00046
+Timesteps So Far: 27989
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712515.002492, 3887.227000]: Collide with obstacle, reset!
+[INFO] [1681712529.369869, 3901.587000]: Collide with obstacle, reset!
+[INFO] [1681712535.473008, 3907.687000]: Collide with obstacle, reset!
+[INFO] [1681712540.796607, 3913.007000]: Collide with obstacle, reset!
+[INFO] [1681712547.179945, 3919.387000]: Collide with obstacle, reset!
+[INFO] [1681712553.343036, 3925.547000]: Collide with obstacle, reset!
+
+-------------------- Iteration #13 --------------------
+Average Episodic Length: 325.0
+Average Episodic Return: -5.81
+Average Loss: -0.00131
+Timesteps So Far: 30264
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712553.386281, 3925.590000]: Collide with obstacle, reset!
+
+-------------------- Iteration #14 --------------------
+Average Episodic Length: 343.0
+Average Episodic Return: -1.01
+Average Loss: -0.00276
+Timesteps So Far: 32665
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #15 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: -0.74
+Average Loss: -0.00139
+Timesteps So Far: 35065
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #16 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 0.26
+Average Loss: -0.00146
+Timesteps So Far: 37465
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #17 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 0.84
+Average Loss: -0.00639
+Timesteps So Far: 39865
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712761.083342, 4133.167000]: Collide with obstacle, reset!
+[INFO] [1681712764.925272, 4137.007000]: Collide with obstacle, reset!
+[INFO] [1681712768.506963, 4140.587000]: Collide with obstacle, reset!
+[INFO] [1681712780.773386, 4152.847000]: Collide with obstacle, reset!
+[INFO] [1681712784.495741, 4156.567000]: Collide with obstacle, reset!
+
+-------------------- Iteration #18 --------------------
+Average Episodic Length: 289.75
+Average Episodic Return: -1.98
+Average Loss: -0.00127
+Timesteps So Far: 42183
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712799.884548, 4171.947000]: Collide with obstacle, reset!
+[INFO] [1681712807.168939, 4179.227000]: Collide with obstacle, reset!
+[INFO] [1681712822.777073, 4194.827000]: Collide with obstacle, reset!
+
+-------------------- Iteration #19 --------------------
+Average Episodic Length: 384.67
+Average Episodic Return: -0.62
+Average Loss: -0.00036
+Timesteps So Far: 44491
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712845.833723, 4217.867000]: Collide with obstacle, reset!
+[INFO] [1681712853.040662, 4225.067000]: Collide with obstacle, reset!
+[INFO] [1681712860.524824, 4232.547000]: Collide with obstacle, reset!
+[INFO] [1681712883.417444, 4255.427000]: Collide with obstacle, reset!
+
+-------------------- Iteration #20 --------------------
+Average Episodic Length: 370.33
+Average Episodic Return: -1.42
+Average Loss: -0.00077
+Timesteps So Far: 46713
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712883.459224, 4255.468000]: Collide with obstacle, reset!
+[INFO] [1681712898.487039, 4270.487000]: Collide with obstacle, reset!
+[INFO] [1681712904.870620, 4276.867000]: Collide with obstacle, reset!
+[INFO] [1681712912.014099, 4284.007000]: Collide with obstacle, reset!
+[INFO] [1681712927.241684, 4299.227000]: Collide with obstacle, reset!
+
+-------------------- Iteration #21 --------------------
+Average Episodic Length: 311.86
+Average Episodic Return: -0.16
+Average Loss: -0.00081
+Timesteps So Far: 48896
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681712927.282003, 4299.267000]: Collide with obstacle, reset!
+
+-------------------- Iteration #22 --------------------
+Average Episodic Length: 343.0
+Average Episodic Return: 3.25
+Average Loss: -0.00316
+Timesteps So Far: 51297
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713019.434596, 4391.367000]: Collide with obstacle, reset!
+
+-------------------- Iteration #23 --------------------
+Average Episodic Length: 365.5
+Average Episodic Return: 3.03
+Average Loss: -0.00164
+Timesteps So Far: 53490
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713019.474568, 4391.407000]: Collide with obstacle, reset!
+[INFO] [1681713049.310634, 4421.227000]: Collide with obstacle, reset!
+[INFO] [1681713055.313615, 4427.227000]: Collide with obstacle, reset!
+[INFO] [1681713061.877037, 4433.787000]: Collide with obstacle, reset!
+
+-------------------- Iteration #24 --------------------
+Average Episodic Length: 302.0
+Average Episodic Return: 2.45
+Average Loss: -0.00241
+Timesteps So Far: 55604
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713061.917065, 4433.827000]: Collide with obstacle, reset!
+[INFO] [1681713082.847885, 4454.747000]: Collide with obstacle, reset!
+[INFO] [1681713101.757555, 4473.647000]: Collide with obstacle, reset!
+
+-------------------- Iteration #25 --------------------
+Average Episodic Length: 298.25
+Average Episodic Return: 4.42
+Average Loss: -0.00185
+Timesteps So Far: 57990
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #26 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 4.71
+Average Loss: -0.00131
+Timesteps So Far: 60390
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713169.415901, 4541.267000]: Collide with obstacle, reset!
+
+-------------------- Iteration #27 --------------------
+Average Episodic Length: 362.0
+Average Episodic Return: 3.81
+Average Loss: -0.00119
+Timesteps So Far: 62562
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #28 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 4.48
+Average Loss: -0.0017
+Timesteps So Far: 64962
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #29 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 2.79
+Average Loss: -0.00147
+Timesteps So Far: 67362
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713303.129445, 4674.907000]: Collide with obstacle, reset!
+
+-------------------- Iteration #30 --------------------
+Average Episodic Length: 377.5
+Average Episodic Return: 4.96
+Average Loss: -0.00182
+Timesteps So Far: 69627
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713359.283021, 4731.027000]: Collide with obstacle, reset!
+[INFO] [1681713391.123161, 4762.847000]: Collide with obstacle, reset!
+
+-------------------- Iteration #31 --------------------
+Average Episodic Length: 397.67
+Average Episodic Return: 5.55
+Average Loss: -0.00289
+Timesteps So Far: 72013
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713391.165161, 4762.888000]: Collide with obstacle, reset!
+[INFO] [1681713415.116561, 4786.827000]: Collide with obstacle, reset!
+[INFO] [1681713430.905807, 4802.607000]: Collide with obstacle, reset!
+
+-------------------- Iteration #32 --------------------
+Average Episodic Length: 340.29
+Average Episodic Return: 6.37
+Average Loss: -0.00092
+Timesteps So Far: 74395
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713443.672204, 4815.367000]: Collide with obstacle, reset!
+[INFO] [1681713446.333736, 4818.027000]: Collide with obstacle, reset!
+[INFO] [1681713451.136859, 4822.827000]: Collide with obstacle, reset!
+
+-------------------- Iteration #33 --------------------
+Average Episodic Length: 315.29
+Average Episodic Return: 2.58
+Average Loss: -0.00296
+Timesteps So Far: 76602
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713502.225909, 4873.887000]: Collide with obstacle, reset!
+[INFO] [1681713525.658247, 4897.307000]: Collide with obstacle, reset!
+
+-------------------- Iteration #34 --------------------
+Average Episodic Length: 352.33
+Average Episodic Return: 4.74
+Average Loss: -0.00156
+Timesteps So Far: 78716
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #35 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 6.72
+Average Loss: -0.00433
+Timesteps So Far: 81116
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713581.810839, 4953.427000]: Collide with obstacle, reset!
+[INFO] [1681713613.746927, 4985.347000]: Collide with obstacle, reset!
+
+-------------------- Iteration #36 --------------------
+Average Episodic Length: 398.5
+Average Episodic Return: 6.38
+Average Loss: -0.00289
+Timesteps So Far: 83507
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713636.920601, 5008.507000]: Collide with obstacle, reset!
+[INFO] [1681713644.104267, 5015.687000]: Collide with obstacle, reset!
+[INFO] [1681713651.468040, 5023.047000]: Collide with obstacle, reset!
+[INFO] [1681713658.832048, 5030.407000]: Collide with obstacle, reset!
+
+-------------------- Iteration #37 --------------------
+Average Episodic Length: 374.5
+Average Episodic Return: 6.22
+Average Loss: -0.00138
+Timesteps So Far: 85754
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #38 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 10.66
+Average Loss: -0.00358
+Timesteps So Far: 88154
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713717.265573, 5088.807000]: Collide with obstacle, reset!
+[INFO] [1681713727.570921, 5099.107000]: Collide with obstacle, reset!
+[INFO] [1681713730.152292, 5101.687000]: Collide with obstacle, reset!
+[INFO] [1681713756.406807, 5127.927000]: Collide with obstacle, reset!
+
+-------------------- Iteration #39 --------------------
+Average Episodic Length: 257.62
+Average Episodic Return: 3.43
+Average Loss: -0.00204
+Timesteps So Far: 90215
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713756.451609, 5127.971000]: Collide with obstacle, reset!
+[INFO] [1681713770.994250, 5142.507000]: Collide with obstacle, reset!
+[INFO] [1681713785.461531, 5156.967000]: Collide with obstacle, reset!
+[INFO] [1681713799.828779, 5171.327000]: Collide with obstacle, reset!
+
+-------------------- Iteration #40 --------------------
+Average Episodic Length: 309.0
+Average Episodic Return: 8.79
+Average Loss: -0.00128
+Timesteps So Far: 92378
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713799.868896, 5171.367000]: Collide with obstacle, reset!
+[INFO] [1681713806.772419, 5178.267000]: Collide with obstacle, reset!
+[INFO] [1681713820.879834, 5192.367000]: Collide with obstacle, reset!
+
+-------------------- Iteration #41 --------------------
+Average Episodic Length: 321.14
+Average Episodic Return: 10.29
+Average Loss: -0.00158
+Timesteps So Far: 94626
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713883.297885, 5254.747000]: Collide with obstacle, reset!
+[INFO] [1681713889.981177, 5261.427000]: Collide with obstacle, reset!
+
+-------------------- Iteration #42 --------------------
+Average Episodic Length: 374.0
+Average Episodic Return: 9.8
+Average Loss: -0.00285
+Timesteps So Far: 96870
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713890.021377, 5261.467000]: Collide with obstacle, reset!
+
+-------------------- Iteration #43 --------------------
+Average Episodic Length: 343.0
+Average Episodic Return: 13.43
+Average Loss: -0.00082
+Timesteps So Far: 99271
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #44 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 14.14
+Average Loss: -0.00183
+Timesteps So Far: 101671
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681713991.339716, 5362.727000]: Collide with obstacle, reset!
+[INFO] [1681713998.403395, 5369.787000]: Collide with obstacle, reset!
+[INFO] [1681714000.024016, 5371.407000]: Collide with obstacle, reset!
+[INFO] [1681714001.845539, 5373.227000]: Collide with obstacle, reset!
+[INFO] [1681714027.699913, 5399.067000]: Collide with obstacle, reset!
+
+-------------------- Iteration #45 --------------------
+Average Episodic Length: 257.5
+Average Episodic Return: 6.11
+Average Loss: -0.00275
+Timesteps So Far: 103731
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714027.755784, 5399.122000]: Collide with obstacle, reset!
+[INFO] [1681714040.026330, 5411.387000]: Collide with obstacle, reset!
+[INFO] [1681714044.628650, 5415.987000]: Collide with obstacle, reset!
+[INFO] [1681714049.074063, 5420.427000]: Collide with obstacle, reset!
+[INFO] [1681714054.197302, 5425.547000]: Collide with obstacle, reset!
+
+-------------------- Iteration #46 --------------------
+Average Episodic Length: 264.75
+Average Episodic Return: 10.18
+Average Loss: -0.00279
+Timesteps So Far: 105849
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714106.727753, 5478.047000]: Collide with obstacle, reset!
+
+-------------------- Iteration #47 --------------------
+Average Episodic Length: 369.67
+Average Episodic Return: 13.18
+Average Loss: -0.00335
+Timesteps So Far: 108067
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #48 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 15.35
+Average Loss: -0.00086
+Timesteps So Far: 110467
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714199.460712, 5570.727000]: Collide with obstacle, reset!
+
+-------------------- Iteration #49 --------------------
+Average Episodic Length: 370.33
+Average Episodic Return: 13.05
+Average Loss: -0.00447
+Timesteps So Far: 112689
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #50 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 15.26
+Average Loss: -0.00116
+Timesteps So Far: 115089
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714257.315178, 5628.547000]: Collide with obstacle, reset!
+
+-------------------- Iteration #51 --------------------
+Average Episodic Length: 347.17
+Average Episodic Return: 10.81
+Average Loss: -0.00311
+Timesteps So Far: 117172
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714299.080950, 5670.287000]: Collide with obstacle, reset!
+[INFO] [1681714306.965714, 5678.167000]: Collide with obstacle, reset!
+[INFO] [1681714324.614896, 5695.807000]: Collide with obstacle, reset!
+
+-------------------- Iteration #52 --------------------
+Average Episodic Length: 307.57
+Average Episodic Return: 8.56
+Average Loss: -0.00199
+Timesteps So Far: 119325
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714344.644839, 5715.827000]: Collide with obstacle, reset!
+
+-------------------- Iteration #53 --------------------
+Average Episodic Length: 366.33
+Average Episodic Return: 12.79
+Average Loss: -0.00408
+Timesteps So Far: 121523
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #54 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 14.14
+Average Loss: -0.00115
+Timesteps So Far: 123923
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714450.343219, 5821.467000]: Collide with obstacle, reset!
+
+-------------------- Iteration #55 --------------------
+Average Episodic Length: 344.67
+Average Episodic Return: 9.14
+Average Loss: -0.00115
+Timesteps So Far: 125991
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714513.582782, 5884.667000]: Collide with obstacle, reset!
+
+-------------------- Iteration #56 --------------------
+Average Episodic Length: 392.0
+Average Episodic Return: 11.88
+Average Loss: -0.00101
+Timesteps So Far: 128343
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714532.732113, 5903.807000]: Collide with obstacle, reset!
+[INFO] [1681714535.913854, 5906.987000]: Collide with obstacle, reset!
+[INFO] [1681714539.197638, 5910.267000]: Collide with obstacle, reset!
+
+-------------------- Iteration #57 --------------------
+Average Episodic Length: 296.43
+Average Episodic Return: 9.62
+Average Loss: -0.00285
+Timesteps So Far: 130418
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714574.420830, 5945.467000]: Collide with obstacle, reset!
+[INFO] [1681714581.924967, 5952.967000]: Collide with obstacle, reset!
+[INFO] [1681714601.239197, 5972.267000]: Collide with obstacle, reset!
+[INFO] [1681714604.541059, 5975.567000]: Collide with obstacle, reset!
+
+-------------------- Iteration #58 --------------------
+Average Episodic Length: 293.57
+Average Episodic Return: 6.5
+Average Loss: -0.00201
+Timesteps So Far: 132473
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714604.591982, 5975.617000]: Collide with obstacle, reset!
+[INFO] [1681714615.988252, 5987.007000]: Collide with obstacle, reset!
+
+-------------------- Iteration #59 --------------------
+Average Episodic Length: 309.86
+Average Episodic Return: 8.81
+Average Loss: -0.00163
+Timesteps So Far: 134642
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714651.411034, 6022.407000]: Collide with obstacle, reset!
+
+-------------------- Iteration #60 --------------------
+Average Episodic Length: 360.83
+Average Episodic Return: 12.23
+Average Loss: -0.00203
+Timesteps So Far: 136807
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714692.935616, 6063.907000]: Collide with obstacle, reset!
+[INFO] [1681714700.042300, 6071.007000]: Collide with obstacle, reset!
+[INFO] [1681714717.551658, 6088.507000]: Collide with obstacle, reset!
+
+-------------------- Iteration #61 --------------------
+Average Episodic Length: 299.29
+Average Episodic Return: 7.63
+Average Loss: -0.00183
+Timesteps So Far: 138902
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714735.181043, 6106.127000]: Collide with obstacle, reset!
+[INFO] [1681714766.440808, 6137.367000]: Collide with obstacle, reset!
+
+-------------------- Iteration #62 --------------------
+Average Episodic Length: 348.0
+Average Episodic Return: 10.38
+Average Loss: -0.00301
+Timesteps So Far: 141338
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714785.931584, 6156.847000]: Collide with obstacle, reset!
+[INFO] [1681714789.493390, 6160.407000]: Collide with obstacle, reset!
+[INFO] [1681714794.515990, 6165.427000]: Collide with obstacle, reset!
+[INFO] [1681714797.817878, 6168.727000]: Collide with obstacle, reset!
+[INFO] [1681714801.199726, 6172.107000]: Collide with obstacle, reset!
+[INFO] [1681714804.601521, 6175.507000]: Collide with obstacle, reset!
+[INFO] [1681714807.803503, 6178.707000]: Collide with obstacle, reset!
+[INFO] [1681714819.168900, 6190.067000]: Collide with obstacle, reset!
+[INFO] [1681714822.630720, 6193.527000]: Collide with obstacle, reset!
+[INFO] [1681714825.912474, 6196.807000]: Collide with obstacle, reset!
+
+-------------------- Iteration #63 --------------------
+Average Episodic Length: 196.27
+Average Episodic Return: 8.45
+Average Loss: -0.00146
+Timesteps So Far: 143497
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714825.955126, 6196.849000]: Collide with obstacle, reset!
+[INFO] [1681714869.317564, 6240.187000]: Collide with obstacle, reset!
+
+-------------------- Iteration #64 --------------------
+Average Episodic Length: 308.86
+Average Episodic Return: 12.54
+Average Loss: -0.00276
+Timesteps So Far: 145659
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714881.023480, 6251.887000]: Collide with obstacle, reset!
+[INFO] [1681714908.699936, 6279.547000]: Collide with obstacle, reset!
+[INFO] [1681714912.541800, 6283.387000]: Collide with obstacle, reset!
+
+-------------------- Iteration #65 --------------------
+Average Episodic Length: 307.57
+Average Episodic Return: 11.39
+Average Loss: -0.00243
+Timesteps So Far: 147812
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #66 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 14.76
+Average Loss: -0.00152
+Timesteps So Far: 150212
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681714996.267999, 6367.067000]: Collide with obstacle, reset!
+[INFO] [1681714999.689708, 6370.487000]: Collide with obstacle, reset!
+
+-------------------- Iteration #67 --------------------
+Average Episodic Length: 334.71
+Average Episodic Return: 11.46
+Average Loss: -0.00189
+Timesteps So Far: 152555
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #68 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 11.03
+Average Loss: -0.00252
+Timesteps So Far: 154955
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #69 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 13.58
+Average Loss: -0.00165
+Timesteps So Far: 157355
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715119.401604, 6490.127000]: Collide with obstacle, reset!
+[INFO] [1681715134.889055, 6505.607000]: Collide with obstacle, reset!
+[INFO] [1681715142.152723, 6512.867000]: Collide with obstacle, reset!
+
+-------------------- Iteration #70 --------------------
+Average Episodic Length: 383.5
+Average Episodic Return: 11.68
+Average Loss: -0.00171
+Timesteps So Far: 159656
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715181.572735, 6552.267000]: Collide with obstacle, reset!
+
+-------------------- Iteration #71 --------------------
+Average Episodic Length: 394.17
+Average Episodic Return: 12.99
+Average Loss: -0.00206
+Timesteps So Far: 162021
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715213.030008, 6583.707000]: Collide with obstacle, reset!
+[INFO] [1681715220.213860, 6590.887000]: Collide with obstacle, reset!
+[INFO] [1681715227.177282, 6597.847000]: Collide with obstacle, reset!
+
+-------------------- Iteration #72 --------------------
+Average Episodic Length: 378.83
+Average Episodic Return: 11.2
+Average Loss: -0.00294
+Timesteps So Far: 164294
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+
+-------------------- Iteration #73 --------------------
+Average Episodic Length: 400.0
+Average Episodic Return: 8.95
+Average Loss: -0.00229
+Timesteps So Far: 166694
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715298.179095, 6668.807000]: Collide with obstacle, reset!
+
+-------------------- Iteration #74 --------------------
+Average Episodic Length: 389.83
+Average Episodic Return: 9.05
+Average Loss: -0.00082
+Timesteps So Far: 169033
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715344.785337, 6715.387000]: Collide with obstacle, reset!
+
+-------------------- Iteration #75 --------------------
+Average Episodic Length: 387.17
+Average Episodic Return: 10.53
+Average Loss: -0.0005
+Timesteps So Far: 171356
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715391.354991, 6761.927000]: Collide with obstacle, reset!
+[INFO] [1681715396.677558, 6767.247000]: Arrive the destination, reset!
+[INFO] [1681715403.320801, 6773.887000]: Collide with obstacle, reset!
+[INFO] [1681715426.373285, 6796.927000]: Collide with obstacle, reset!
+
+-------------------- Iteration #76 --------------------
+Average Episodic Length: 344.33
+Average Episodic Return: 13.55
+Average Loss: -0.00409
+Timesteps So Far: 173422
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715426.417570, 6796.971000]: Collide with obstacle, reset!
+[INFO] [1681715432.356972, 6802.907000]: Arrive the destination, reset!
+[INFO] [1681715438.139893, 6808.687000]: Arrive the destination, reset!
+[INFO] [1681715443.486811, 6814.027000]: Arrive the destination, reset!
+[INFO] [1681715450.012038, 6820.547000]: Collide with obstacle, reset!
+[INFO] [1681715455.355031, 6825.887000]: Arrive the destination, reset!
+[INFO] [1681715461.438016, 6831.967000]: Collide with obstacle, reset!
+[INFO] [1681715467.781020, 6838.307000]: Collide with obstacle, reset!
+
+-------------------- Iteration #77 --------------------
+Average Episodic Length: 257.62
+Average Episodic Return: 12.31
+Average Loss: -0.00188
+Timesteps So Far: 175483
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715467.825471, 6838.351000]: Collide with obstacle, reset!
+[INFO] [1681715473.804236, 6844.327000]: Collide with obstacle, reset!
+[INFO] [1681715475.284953, 6845.807000]: Collide with obstacle, reset!
+[INFO] [1681715476.805860, 6847.327000]: Collide with obstacle, reset!
+[INFO] [1681715482.208488, 6852.727000]: Collide with obstacle, reset!
+[INFO] [1681715483.769457, 6854.287000]: Collide with obstacle, reset!
+[INFO] [1681715497.436312, 6867.947000]: Collide with obstacle, reset!
+[INFO] [1681715502.698951, 6873.207000]: Arrive the destination, reset!
+[INFO] [1681715508.182632, 6878.687000]: Arrive the destination, reset!
+[INFO] [1681715513.265262, 6883.767000]: Arrive the destination, reset!
+
+-------------------- Iteration #78 --------------------
+Average Episodic Length: 205.64
+Average Episodic Return: 12.27
+Average Loss: -0.002
+Timesteps So Far: 177745
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715513.318969, 6883.820000]: Arrive the destination, reset!
+[INFO] [1681715518.847933, 6889.347000]: Collide with obstacle, reset!
+[INFO] [1681715524.633612, 6895.128000]: Collide with obstacle, reset!
+[INFO] [1681715530.133974, 6900.627000]: Collide with obstacle, reset!
+[INFO] [1681715536.137772, 6906.627000]: Collide with obstacle, reset!
+[INFO] [1681715541.500589, 6911.987000]: Arrive the destination, reset!
+[INFO] [1681715547.283459, 6917.767000]: Collide with obstacle, reset!
+[INFO] [1681715548.664206, 6919.147000]: Collide with obstacle, reset!
+[INFO] [1681715554.727638, 6925.207000]: Collide with obstacle, reset!
+
+-------------------- Iteration #79 --------------------
+Average Episodic Length: 229.22
+Average Episodic Return: 14.1
+Average Loss: -0.00301
+Timesteps So Far: 179808
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715559.850322, 6930.327000]: Arrive the destination, reset!
+[INFO] [1681715565.273065, 6935.747000]: Collide with obstacle, reset!
+[INFO] [1681715570.636567, 6941.107000]: Arrive the destination, reset!
+[INFO] [1681715576.279441, 6946.747000]: Arrive the destination, reset!
+[INFO] [1681715581.643031, 6952.107000]: Collide with obstacle, reset!
+[INFO] [1681715587.366153, 6957.827000]: Collide with obstacle, reset!
+[INFO] [1681715593.149973, 6963.608000]: Collide with obstacle, reset!
+[INFO] [1681715599.192583, 6969.647000]: Collide with obstacle, reset!
+
+-------------------- Iteration #80 --------------------
+Average Episodic Length: 276.75
+Average Episodic Return: 13.66
+Average Loss: -0.00091
+Timesteps So Far: 182022
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715599.233590, 6969.687000]: Collide with obstacle, reset!
+[INFO] [1681715604.915484, 6975.367000]: Arrive the destination, reset!
+[INFO] [1681715610.299648, 6980.747000]: Arrive the destination, reset!
+[INFO] [1681715616.349777, 6986.787000]: Collide with obstacle, reset!
+[INFO] [1681715622.393672, 6992.827000]: Collide with obstacle, reset!
+[INFO] [1681715628.136147, 6998.567000]: Arrive the destination, reset!
+[INFO] [1681715633.899395, 7004.327000]: Arrive the destination, reset!
+[INFO] [1681715639.082050, 7009.507000]: Arrive the destination, reset!
+[INFO] [1681715645.185337, 7015.607000]: Collide with obstacle, reset!
+
+-------------------- Iteration #81 --------------------
+Average Episodic Length: 254.33
+Average Episodic Return: 19.98
+Average Loss: -0.00242
+Timesteps So Far: 184311
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715650.708024, 7021.127000]: Arrive the destination, reset!
+[INFO] [1681715656.010706, 7026.427000]: Arrive the destination, reset!
+[INFO] [1681715661.953636, 7032.367000]: Arrive the destination, reset!
+[INFO] [1681715667.536876, 7037.947000]: Arrive the destination, reset!
+[INFO] [1681715673.780052, 7044.187000]: Arrive the destination, reset!
+[INFO] [1681715679.362869, 7049.767000]: Arrive the destination, reset!
+[INFO] [1681715685.166150, 7055.567000]: Arrive the destination, reset!
+[INFO] [1681715690.669019, 7061.067000]: Arrive the destination, reset!
+
+-------------------- Iteration #82 --------------------
+Average Episodic Length: 283.12
+Average Episodic Return: 20.87
+Average Loss: -0.00319
+Timesteps So Far: 186576
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715690.716015, 7061.113000]: Arrive the destination, reset!
+[INFO] [1681715696.131871, 7066.527000]: Arrive the destination, reset!
+[INFO] [1681715702.054991, 7072.447000]: Arrive the destination, reset!
+[INFO] [1681715707.897868, 7078.287000]: Collide with obstacle, reset!
+[INFO] [1681715713.200448, 7083.587000]: Arrive the destination, reset!
+[INFO] [1681715718.683834, 7089.067000]: Arrive the destination, reset!
+[INFO] [1681715724.407087, 7094.787000]: Arrive the destination, reset!
+[INFO] [1681715729.249652, 7099.627000]: Arrive the destination, reset!
+[INFO] [1681715734.712263, 7105.087000]: Arrive the destination, reset!
+
+-------------------- Iteration #83 --------------------
+Average Episodic Length: 243.56
+Average Episodic Return: 14.68
+Average Loss: -0.00257
+Timesteps So Far: 188768
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715734.752634, 7105.127000]: Arrive the destination, reset!
+[INFO] [1681715740.155215, 7110.527000]: Arrive the destination, reset!
+[INFO] [1681715746.458616, 7116.827000]: Arrive the destination, reset!
+[INFO] [1681715752.595925, 7122.960000]: Arrive the destination, reset!
+[INFO] [1681715758.205549, 7128.567000]: Arrive the destination, reset!
+[INFO] [1681715762.847647, 7133.207000]: Collide with obstacle, reset!
+[INFO] [1681715768.390475, 7138.747000]: Arrive the destination, reset!
+[INFO] [1681715773.974163, 7144.327000]: Arrive the destination, reset!
+[INFO] [1681715778.556426, 7148.907000]: Collide with obstacle, reset!
+
+-------------------- Iteration #84 --------------------
+Average Episodic Length: 242.44
+Average Episodic Return: 15.78
+Average Loss: -0.00414
+Timesteps So Far: 190950
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715778.596462, 7148.947000]: Collide with obstacle, reset!
+[INFO] [1681715783.399024, 7153.747000]: Arrive the destination, reset!
+[INFO] [1681715788.662960, 7159.007000]: Arrive the destination, reset!
+[INFO] [1681715793.825508, 7164.167000]: Arrive the destination, reset!
+[INFO] [1681715799.388679, 7169.727000]: Arrive the destination, reset!
+[INFO] [1681715805.211665, 7175.547000]: Arrive the destination, reset!
+[INFO] [1681715809.974044, 7180.307000]: Arrive the destination, reset!
+[INFO] [1681715815.076930, 7185.407000]: Arrive the destination, reset!
+[INFO] [1681715820.159637, 7190.487000]: Arrive the destination, reset!
+
+-------------------- Iteration #85 --------------------
+Average Episodic Length: 230.0
+Average Episodic Return: 24.14
+Average Loss: -0.0009
+Timesteps So Far: 193020
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715820.203057, 7190.530000]: Arrive the destination, reset!
+[INFO] [1681715825.762249, 7196.087000]: Collide with obstacle, reset!
+[INFO] [1681715831.125049, 7201.447000]: Collide with obstacle, reset!
+[INFO] [1681715836.429822, 7206.747000]: Collide with obstacle, reset!
+[INFO] [1681715841.252509, 7211.567000]: Arrive the destination, reset!
+[INFO] [1681715846.715119, 7217.027000]: Collide with obstacle, reset!
+[INFO] [1681715851.777878, 7222.087000]: Collide with obstacle, reset!
+[INFO] [1681715857.242417, 7227.547000]: Collide with obstacle, reset!
+[INFO] [1681715862.425917, 7232.727000]: Arrive the destination, reset!
+
+-------------------- Iteration #86 --------------------
+Average Episodic Length: 233.67
+Average Episodic Return: 17.3
+Average Loss: -0.00198
+Timesteps So Far: 195123
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715862.465991, 7232.767000]: Arrive the destination, reset!
+[INFO] [1681715867.048426, 7237.347000]: Arrive the destination, reset!
+[INFO] [1681715872.577620, 7242.867000]: Arrive the destination, reset!
+[INFO] [1681715878.040158, 7248.327000]: Collide with obstacle, reset!
+[INFO] [1681715883.243965, 7253.527000]: Arrive the destination, reset!
+[INFO] [1681715888.908041, 7259.187000]: Collide with obstacle, reset!
+[INFO] [1681715893.870704, 7264.147000]: Arrive the destination, reset!
+[INFO] [1681715899.073796, 7269.347000]: Arrive the destination, reset!
+[INFO] [1681715903.956651, 7274.227000]: Arrive the destination, reset!
+
+-------------------- Iteration #87 --------------------
+Average Episodic Length: 229.56
+Average Episodic Return: 22.5
+Average Loss: -0.00312
+Timesteps So Far: 197189
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715903.997739, 7274.267000]: Arrive the destination, reset!
+[INFO] [1681715909.239310, 7279.507000]: Arrive the destination, reset!
+[INFO] [1681715914.082239, 7284.347000]: Arrive the destination, reset!
+[INFO] [1681715918.944775, 7289.207000]: Arrive the destination, reset!
+[INFO] [1681715923.026869, 7293.287000]: Collide with obstacle, reset!
+[INFO] [1681715928.389577, 7298.647000]: Arrive the destination, reset!
+[INFO] [1681715933.652173, 7303.907000]: Arrive the destination, reset!
+[INFO] [1681715938.634976, 7308.887000]: Arrive the destination, reset!
+[INFO] [1681715944.217954, 7314.467000]: Arrive the destination, reset!
+[INFO] [1681715949.921023, 7320.167000]: Arrive the destination, reset!
+
+-------------------- Iteration #88 --------------------
+Average Episodic Length: 228.7
+Average Episodic Return: 23.87
+Average Loss: -0.0029
+Timesteps So Far: 199476
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715949.961972, 7320.207000]: Arrive the destination, reset!
+[INFO] [1681715954.723994, 7324.967000]: Arrive the destination, reset!
+[INFO] [1681715959.466265, 7329.707000]: Arrive the destination, reset!
+[INFO] [1681715964.088873, 7334.327000]: Arrive the destination, reset!
+[INFO] [1681715969.431604, 7339.667000]: Arrive the destination, reset!
+[INFO] [1681715974.714044, 7344.947000]: Arrive the destination, reset!
+[INFO] [1681715979.777037, 7350.007000]: Arrive the destination, reset!
+[INFO] [1681715985.299512, 7355.527000]: Arrive the destination, reset!
+[INFO] [1681715991.042336, 7361.267000]: Arrive the destination, reset!
+[INFO] [1681715996.025038, 7366.247000]: Arrive the destination, reset!
+
+-------------------- Iteration #89 --------------------
+Average Episodic Length: 229.4
+Average Episodic Return: 25.32
+Average Loss: -0.0028
+Timesteps So Far: 201770
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681715996.066176, 7366.287000]: Arrive the destination, reset!
+[INFO] [1681716000.847395, 7371.067000]: Arrive the destination, reset!
+[INFO] [1681716005.870753, 7376.087000]: Arrive the destination, reset!
+[INFO] [1681716010.673332, 7380.887000]: Arrive the destination, reset!
+[INFO] [1681716015.275934, 7385.487000]: Arrive the destination, reset!
+[INFO] [1681716019.998513, 7390.207000]: Arrive the destination, reset!
+[INFO] [1681716025.221034, 7395.427000]: Arrive the destination, reset!
+[INFO] [1681716030.463684, 7400.667000]: Collide with obstacle, reset!
+[INFO] [1681716034.986402, 7405.187000]: Arrive the destination, reset!
+[INFO] [1681716039.709061, 7409.907000]: Arrive the destination, reset!
+
+-------------------- Iteration #90 --------------------
+Average Episodic Length: 217.3
+Average Episodic Return: 18.07
+Average Loss: -0.00115
+Timesteps So Far: 203943
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716044.331990, 7414.527000]: Arrive the destination, reset!
+[INFO] [1681716045.832758, 7416.027000]: Collide with obstacle, reset!
+[INFO] [1681716050.695040, 7420.887000]: Arrive the destination, reset!
+[INFO] [1681716055.417523, 7425.607000]: Arrive the destination, reset!
+[INFO] [1681716056.938163, 7427.127000]: Collide with obstacle, reset!
+[INFO] [1681716061.763840, 7431.947000]: Arrive the destination, reset!
+[INFO] [1681716066.366030, 7436.547000]: Arrive the destination, reset!
+[INFO] [1681716071.148924, 7441.327000]: Arrive the destination, reset!
+[INFO] [1681716076.051564, 7446.227000]: Collide with obstacle, reset!
+[INFO] [1681716081.154051, 7451.327000]: Arrive the destination, reset!
+
+-------------------- Iteration #91 --------------------
+Average Episodic Length: 206.1
+Average Episodic Return: 17.83
+Average Loss: -0.00441
+Timesteps So Far: 206004
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716081.196380, 7451.367000]: Arrive the destination, reset!
+[INFO] [1681716086.179335, 7456.347000]: Arrive the destination, reset!
+[INFO] [1681716091.041651, 7461.207000]: Arrive the destination, reset!
+[INFO] [1681716095.783979, 7465.947000]: Arrive the destination, reset!
+[INFO] [1681716101.126793, 7471.287000]: Collide with obstacle, reset!
+[INFO] [1681716106.392410, 7476.547000]: Arrive the destination, reset!
+[INFO] [1681716111.255269, 7481.407000]: Arrive the destination, reset!
+[INFO] [1681716112.735967, 7482.887000]: Collide with obstacle, reset!
+[INFO] [1681716117.818728, 7487.967000]: Arrive the destination, reset!
+[INFO] [1681716123.021621, 7493.167000]: Collide with obstacle, reset!
+
+-------------------- Iteration #92 --------------------
+Average Episodic Length: 208.2
+Average Episodic Return: 17.01
+Average Loss: -0.00183
+Timesteps So Far: 208086
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716128.291498, 7498.434000]: Arrive the destination, reset!
+[INFO] [1681716133.214028, 7503.354000]: Arrive the destination, reset!
+[INFO] [1681716138.176022, 7508.314000]: Arrive the destination, reset!
+[INFO] [1681716143.038739, 7513.174000]: Arrive the destination, reset!
+[INFO] [1681716147.701867, 7517.834000]: Arrive the destination, reset!
+[INFO] [1681716152.984369, 7523.114000]: Arrive the destination, reset!
+[INFO] [1681716157.527802, 7527.654000]: Arrive the destination, reset!
+[INFO] [1681716162.670618, 7532.794000]: Arrive the destination, reset!
+[INFO] [1681716167.953591, 7538.074000]: Arrive the destination, reset!
+
+-------------------- Iteration #93 --------------------
+Average Episodic Length: 248.22
+Average Episodic Return: 21.36
+Average Loss: -0.00439
+Timesteps So Far: 210320
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716172.979497, 7543.097000]: Arrive the destination, reset!
+[INFO] [1681716178.362446, 7548.477000]: Collide with obstacle, reset!
+[INFO] [1681716183.029815, 7553.137000]: Arrive the destination, reset!
+[INFO] [1681716187.892045, 7557.997000]: Arrive the destination, reset!
+[INFO] [1681716192.754503, 7562.857000]: Arrive the destination, reset!
+[INFO] [1681716197.356838, 7567.457000]: Arrive the destination, reset!
+[INFO] [1681716202.879534, 7572.977000]: Collide with obstacle, reset!
+[INFO] [1681716208.242331, 7578.337000]: Collide with obstacle, reset!
+[INFO] [1681716213.124719, 7583.217000]: Arrive the destination, reset!
+
+-------------------- Iteration #94 --------------------
+Average Episodic Length: 249.56
+Average Episodic Return: 16.91
+Average Loss: -0.00114
+Timesteps So Far: 212566
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716213.166637, 7583.257000]: Arrive the destination, reset!
+[INFO] [1681716218.247462, 7588.337000]: Arrive the destination, reset!
+[INFO] [1681716223.190473, 7593.277000]: Arrive the destination, reset!
+[INFO] [1681716227.935492, 7598.017000]: Arrive the destination, reset!
+[INFO] [1681716232.638638, 7602.717000]: Arrive the destination, reset!
+[INFO] [1681716237.781665, 7607.857000]: Arrive the destination, reset!
+[INFO] [1681716242.744499, 7612.817000]: Arrive the destination, reset!
+[INFO] [1681716244.045031, 7614.117000]: Collide with obstacle, reset!
+[INFO] [1681716248.912825, 7618.980000]: Arrive the destination, reset!
+[INFO] [1681716254.170044, 7624.237000]: Arrive the destination, reset!
+[INFO] [1681716259.473511, 7629.537000]: Arrive the destination, reset!
+
+-------------------- Iteration #95 --------------------
+Average Episodic Length: 209.55
+Average Episodic Return: 19.95
+Average Loss: -0.00034
+Timesteps So Far: 214871
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716259.526282, 7629.589000]: Arrive the destination, reset!
+[INFO] [1681716264.535969, 7634.597000]: Collide with obstacle, reset!
+[INFO] [1681716269.238051, 7639.297000]: Arrive the destination, reset!
+[INFO] [1681716273.800644, 7643.857000]: Arrive the destination, reset!
+[INFO] [1681716278.703075, 7648.757000]: Arrive the destination, reset!
+[INFO] [1681716283.865739, 7653.917000]: Arrive the destination, reset!
+[INFO] [1681716288.828069, 7658.877000]: Arrive the destination, reset!
+[INFO] [1681716293.710518, 7663.757000]: Arrive the destination, reset!
+[INFO] [1681716298.593235, 7668.637000]: Arrive the destination, reset!
+[INFO] [1681716303.756963, 7673.797000]: Arrive the destination, reset!
+
+-------------------- Iteration #96 --------------------
+Average Episodic Length: 220.3
+Average Episodic Return: 21.15
+Average Loss: -0.00388
+Timesteps So Far: 217074
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716303.798357, 7673.838000]: Arrive the destination, reset!
+[INFO] [1681716308.379374, 7678.417000]: Arrive the destination, reset!
+[INFO] [1681716313.601980, 7683.637000]: Arrive the destination, reset!
+[INFO] [1681716318.304340, 7688.337000]: Arrive the destination, reset!
+[INFO] [1681716323.627043, 7693.657000]: Arrive the destination, reset!
+[INFO] [1681716329.149762, 7699.177000]: Arrive the destination, reset!
+[INFO] [1681716334.092300, 7704.117000]: Arrive the destination, reset!
+[INFO] [1681716338.995028, 7709.017000]: Arrive the destination, reset!
+[INFO] [1681716344.257974, 7714.277000]: Arrive the destination, reset!
+[INFO] [1681716349.320459, 7719.337000]: Arrive the destination, reset!
+
+-------------------- Iteration #97 --------------------
+Average Episodic Length: 226.7
+Average Episodic Return: 25.13
+Average Loss: -0.00232
+Timesteps So Far: 219341
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716349.363344, 7719.379000]: Arrive the destination, reset!
+[INFO] [1681716354.103174, 7724.117000]: Arrive the destination, reset!
+[INFO] [1681716358.665444, 7728.677000]: Arrive the destination, reset!
+[INFO] [1681716363.568341, 7733.577000]: Arrive the destination, reset!
+[INFO] [1681716368.611497, 7738.617000]: Arrive the destination, reset!
+[INFO] [1681716373.213322, 7743.217000]: Arrive the destination, reset!
+[INFO] [1681716378.236234, 7748.237000]: Arrive the destination, reset!
+[INFO] [1681716383.038440, 7753.037000]: Arrive the destination, reset!
+[INFO] [1681716387.700875, 7757.697000]: Arrive the destination, reset!
+[INFO] [1681716392.583359, 7762.577000]: Arrive the destination, reset!
+
+-------------------- Iteration #98 --------------------
+Average Episodic Length: 215.2
+Average Episodic Return: 25.21
+Average Loss: -0.00199
+Timesteps So Far: 221493
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716392.627019, 7762.617000]: Arrive the destination, reset!
+[INFO] [1681716397.009369, 7766.997000]: Arrive the destination, reset!
+[INFO] [1681716401.591790, 7771.577000]: Arrive the destination, reset!
+[INFO] [1681716405.193484, 7775.177000]: Collide with obstacle, reset!
+[INFO] [1681716410.015935, 7779.997000]: Arrive the destination, reset!
+[INFO] [1681716414.738252, 7784.717000]: Arrive the destination, reset!
+[INFO] [1681716419.060483, 7789.037000]: Arrive the destination, reset!
+[INFO] [1681716423.982916, 7793.957000]: Arrive the destination, reset!
+[INFO] [1681716425.343633, 7795.317000]: Collide with obstacle, reset!
+[INFO] [1681716429.605894, 7799.577000]: Arrive the destination, reset!
+[INFO] [1681716434.111834, 7804.077000]: Arrive the destination, reset!
+
+-------------------- Iteration #99 --------------------
+Average Episodic Length: 187.64
+Average Episodic Return: 21.49
+Average Loss: -0.00268
+Timesteps So Far: 223557
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716434.153049, 7804.118000]: Arrive the destination, reset!
+[INFO] [1681716437.493057, 7807.457000]: Collide with obstacle, reset!
+[INFO] [1681716441.815397, 7811.777000]: Arrive the destination, reset!
+[INFO] [1681716446.157827, 7816.117000]: Collide with obstacle, reset!
+[INFO] [1681716450.299932, 7820.257000]: Arrive the destination, reset!
+[INFO] [1681716454.482005, 7824.437000]: Arrive the destination, reset!
+[INFO] [1681716458.744056, 7828.697000]: Arrive the destination, reset!
+[INFO] [1681716462.847187, 7832.797000]: Arrive the destination, reset!
+[INFO] [1681716464.167801, 7834.117000]: Collide with obstacle, reset!
+[INFO] [1681716469.170354, 7839.117000]: Arrive the destination, reset!
+[INFO] [1681716470.411110, 7840.357000]: Collide with obstacle, reset!
+[INFO] [1681716475.093488, 7845.037000]: Collide with obstacle, reset!
+[INFO] [1681716479.415739, 7849.357000]: Arrive the destination, reset!
+
+-------------------- Iteration #100 --------------------
+Average Episodic Length: 173.15
+Average Episodic Return: 18.21
+Average Loss: -0.00185
+Timesteps So Far: 225808
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716479.455762, 7849.397000]: Arrive the destination, reset!
+[INFO] [1681716484.098629, 7854.037000]: Collide with obstacle, reset!
+[INFO] [1681716488.160810, 7858.097000]: Arrive the destination, reset!
+[INFO] [1681716492.243022, 7862.177000]: Arrive the destination, reset!
+[INFO] [1681716496.866379, 7866.797000]: Arrive the destination, reset!
+[INFO] [1681716501.169315, 7871.097000]: Arrive the destination, reset!
+[INFO] [1681716505.811573, 7875.737000]: Collide with obstacle, reset!
+[INFO] [1681716510.275636, 7880.197000]: Collide with obstacle, reset!
+[INFO] [1681716514.497817, 7884.417000]: Arrive the destination, reset!
+[INFO] [1681716515.878398, 7885.797000]: Collide with obstacle, reset!
+[INFO] [1681716520.260848, 7890.177000]: Arrive the destination, reset!
+[INFO] [1681716524.563026, 7894.477000]: Arrive the destination, reset!
+
+-------------------- Iteration #101 --------------------
+Average Episodic Length: 187.0
+Average Episodic Return: 19.71
+Average Loss: -0.00105
+Timesteps So Far: 228052
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716524.603082, 7894.517000]: Arrive the destination, reset!
+[INFO] [1681716527.004283, 7896.917000]: Collide with obstacle, reset!
+[INFO] [1681716531.406535, 7901.317000]: Arrive the destination, reset!
+[INFO] [1681716535.729212, 7905.637000]: Collide with obstacle, reset!
+[INFO] [1681716540.011939, 7909.917000]: Arrive the destination, reset!
+[INFO] [1681716544.334060, 7914.237000]: Arrive the destination, reset!
+[INFO] [1681716548.416022, 7918.317000]: Arrive the destination, reset!
+[INFO] [1681716552.698023, 7922.597000]: Arrive the destination, reset!
+[INFO] [1681716556.880396, 7926.777000]: Arrive the destination, reset!
+[INFO] [1681716560.982270, 7930.877000]: Arrive the destination, reset!
+[INFO] [1681716565.105803, 7934.997000]: Arrive the destination, reset!
+[INFO] [1681716569.028015, 7938.917000]: Arrive the destination, reset!
+
+-------------------- Iteration #102 --------------------
+Average Episodic Length: 184.17
+Average Episodic Return: 22.08
+Average Loss: -0.00208
+Timesteps So Far: 230262
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716569.070921, 7938.959000]: Arrive the destination, reset!
+[INFO] [1681716573.730753, 7943.617000]: Collide with obstacle, reset!
+[INFO] [1681716577.913627, 7947.797000]: Arrive the destination, reset!
+[INFO] [1681716582.075712, 7951.957000]: Arrive the destination, reset!
+[INFO] [1681716586.377855, 7956.257000]: Collide with obstacle, reset!
+[INFO] [1681716590.460833, 7960.337000]: Collide with obstacle, reset!
+[INFO] [1681716594.622837, 7964.497000]: Arrive the destination, reset!
+[INFO] [1681716598.724910, 7968.597000]: Arrive the destination, reset!
+[INFO] [1681716603.228661, 7973.097000]: Arrive the destination, reset!
+[INFO] [1681716607.410753, 7977.277000]: Arrive the destination, reset!
+[INFO] [1681716611.812984, 7981.677000]: Collide with obstacle, reset!
+
+-------------------- Iteration #103 --------------------
+Average Episodic Length: 193.36
+Average Episodic Return: 20.27
+Average Loss: -0.00236
+Timesteps So Far: 232389
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716611.853843, 7981.717000]: Collide with obstacle, reset!
+[INFO] [1681716613.134220, 7982.997000]: Collide with obstacle, reset!
+[INFO] [1681716617.596721, 7987.457000]: Arrive the destination, reset!
+[INFO] [1681716621.699064, 7991.557000]: Arrive the destination, reset!
+[INFO] [1681716626.063082, 7995.917000]: Arrive the destination, reset!
+[INFO] [1681716630.606591, 8000.457000]: Arrive the destination, reset!
+[INFO] [1681716635.208766, 8005.057000]: Arrive the destination, reset!
+[INFO] [1681716639.430969, 8009.277000]: Arrive the destination, reset!
+[INFO] [1681716643.615589, 8013.457000]: Arrive the destination, reset!
+[INFO] [1681716648.118371, 8017.957000]: Arrive the destination, reset!
+[INFO] [1681716652.500663, 8022.337000]: Arrive the destination, reset!
+[INFO] [1681716656.946995, 8026.777000]: Arrive the destination, reset!
+
+-------------------- Iteration #104 --------------------
+Average Episodic Length: 186.92
+Average Episodic Return: 19.95
+Average Loss: -0.00273
+Timesteps So Far: 234632
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716656.987117, 8026.817000]: Arrive the destination, reset!
+[INFO] [1681716661.249253, 8031.077000]: Arrive the destination, reset!
+[INFO] [1681716665.672359, 8035.497000]: Arrive the destination, reset!
+[INFO] [1681716670.414728, 8040.237000]: Arrive the destination, reset!
+[INFO] [1681716674.617297, 8044.437000]: Arrive the destination, reset!
+[INFO] [1681716679.199588, 8049.017000]: Arrive the destination, reset!
+[INFO] [1681716683.822015, 8053.637000]: Arrive the destination, reset!
+[INFO] [1681716688.224526, 8058.037000]: Arrive the destination, reset!
+[INFO] [1681716692.746802, 8062.557000]: Arrive the destination, reset!
+[INFO] [1681716697.369066, 8067.177000]: Arrive the destination, reset!
+[INFO] [1681716702.091529, 8071.897000]: Arrive the destination, reset!
+
+-------------------- Iteration #105 --------------------
+Average Episodic Length: 204.09
+Average Episodic Return: 25.44
+Average Loss: -0.00111
+Timesteps So Far: 236877
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716702.131526, 8071.937000]: Arrive the destination, reset!
+[INFO] [1681716706.633822, 8076.437000]: Arrive the destination, reset!
+[INFO] [1681716711.256082, 8081.057000]: Arrive the destination, reset!
+[INFO] [1681716715.638854, 8085.437000]: Arrive the destination, reset!
+[INFO] [1681716720.609507, 8090.397000]: Arrive the destination, reset!
+[INFO] [1681716724.951640, 8094.737000]: Arrive the destination, reset!
+[INFO] [1681716729.794838, 8099.577000]: Arrive the destination, reset!
+[INFO] [1681716734.217036, 8103.997000]: Arrive the destination, reset!
+[INFO] [1681716738.619205, 8108.397000]: Arrive the destination, reset!
+[INFO] [1681716743.181662, 8112.957000]: Arrive the destination, reset!
+[INFO] [1681716747.864044, 8117.637000]: Arrive the destination, reset!
+
+-------------------- Iteration #106 --------------------
+Average Episodic Length: 206.91
+Average Episodic Return: 25.53
+Average Loss: -0.00299
+Timesteps So Far: 239153
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716747.914939, 8117.687000]: Arrive the destination, reset!
+[INFO] [1681716752.326225, 8122.097000]: Arrive the destination, reset!
+[INFO] [1681716756.708446, 8126.477000]: Arrive the destination, reset!
+[INFO] [1681716760.930642, 8130.697000]: Arrive the destination, reset!
+[INFO] [1681716765.033021, 8134.797000]: Arrive the destination, reset!
+[INFO] [1681716769.435304, 8139.197000]: Arrive the destination, reset!
+[INFO] [1681716772.816955, 8142.577000]: Collide with obstacle, reset!
+[INFO] [1681716777.039193, 8146.797000]: Arrive the destination, reset!
+[INFO] [1681716781.181035, 8150.937000]: Arrive the destination, reset!
+[INFO] [1681716785.543570, 8155.297000]: Arrive the destination, reset!
+[INFO] [1681716790.185681, 8159.937000]: Arrive the destination, reset!
+
+-------------------- Iteration #107 --------------------
+Average Episodic Length: 191.27
+Average Episodic Return: 21.62
+Average Loss: -0.00308
+Timesteps So Far: 241257
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716790.226053, 8159.977000]: Arrive the destination, reset!
+[INFO] [1681716794.488262, 8164.237000]: Arrive the destination, reset!
+[INFO] [1681716798.870755, 8168.617000]: Arrive the destination, reset!
+[INFO] [1681716803.773017, 8173.517000]: Arrive the destination, reset!
+[INFO] [1681716808.235342, 8177.977000]: Collide with obstacle, reset!
+[INFO] [1681716812.537383, 8182.277000]: Arrive the destination, reset!
+[INFO] [1681716817.039674, 8186.777000]: Arrive the destination, reset!
+[INFO] [1681716821.542156, 8191.277000]: Arrive the destination, reset!
+[INFO] [1681716825.724054, 8195.457000]: Arrive the destination, reset!
+[INFO] [1681716830.246205, 8199.977000]: Arrive the destination, reset!
+[INFO] [1681716834.648633, 8204.377000]: Arrive the destination, reset!
+
+-------------------- Iteration #108 --------------------
+Average Episodic Length: 201.0
+Average Episodic Return: 21.76
+Average Loss: -0.0018
+Timesteps So Far: 243468
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716834.691806, 8204.420000]: Arrive the destination, reset!
+[INFO] [1681716838.990994, 8208.717000]: Arrive the destination, reset!
+[INFO] [1681716843.373428, 8213.097000]: Arrive the destination, reset!
+[INFO] [1681716847.617610, 8217.337000]: Arrive the destination, reset!
+[INFO] [1681716852.120790, 8221.837000]: Arrive the destination, reset!
+[INFO] [1681716856.923307, 8226.637000]: Arrive the destination, reset!
+[INFO] [1681716861.725686, 8231.437000]: Arrive the destination, reset!
+[INFO] [1681716863.006968, 8232.717000]: Collide with obstacle, reset!
+[INFO] [1681716867.429979, 8237.137000]: Arrive the destination, reset!
+[INFO] [1681716871.913467, 8241.617000]: Arrive the destination, reset!
+[INFO] [1681716876.275667, 8245.977000]: Arrive the destination, reset!
+
+-------------------- Iteration #109 --------------------
+Average Episodic Length: 188.09
+Average Episodic Return: 20.5
+Average Loss: -0.0024
+Timesteps So Far: 245537
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716876.324339, 8246.025000]: Arrive the destination, reset!
+[INFO] [1681716880.817788, 8250.517000]: Collide with obstacle, reset!
+[INFO] [1681716893.365029, 8263.057000]: Arrive the destination, reset!
+[INFO] [1681716898.288719, 8267.977000]: Collide with obstacle, reset!
+[INFO] [1681716902.570809, 8272.257000]: Arrive the destination, reset!
+[INFO] [1681716906.935133, 8276.617000]: Arrive the destination, reset!
+[INFO] [1681716911.777777, 8281.457000]: Collide with obstacle, reset!
+[INFO] [1681716915.999784, 8285.677000]: Arrive the destination, reset!
+[INFO] [1681716920.862625, 8290.537000]: Collide with obstacle, reset!
+
+-------------------- Iteration #110 --------------------
+Average Episodic Length: 221.8
+Average Episodic Return: 17.37
+Average Loss: -0.00349
+Timesteps So Far: 247755
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716920.904499, 8290.578000]: Collide with obstacle, reset!
+[INFO] [1681716925.104875, 8294.777000]: Arrive the destination, reset!
+[INFO] [1681716929.446957, 8299.117000]: Arrive the destination, reset!
+[INFO] [1681716934.249363, 8303.917000]: Collide with obstacle, reset!
+[INFO] [1681716938.711610, 8308.377000]: Arrive the destination, reset!
+[INFO] [1681716943.194019, 8312.857000]: Arrive the destination, reset!
+[INFO] [1681716947.776286, 8317.437000]: Arrive the destination, reset!
+[INFO] [1681716951.938823, 8321.597000]: Arrive the destination, reset!
+[INFO] [1681716956.421643, 8326.077000]: Arrive the destination, reset!
+[INFO] [1681716960.904052, 8330.557000]: Arrive the destination, reset!
+[INFO] [1681716965.346024, 8334.997000]: Arrive the destination, reset!
+
+-------------------- Iteration #111 --------------------
+Average Episodic Length: 201.09
+Average Episodic Return: 23.37
+Average Loss: -0.00096
+Timesteps So Far: 249967
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681716965.388852, 8335.039000]: Arrive the destination, reset!
+[INFO] [1681716969.888398, 8339.537000]: Collide with obstacle, reset!
+[INFO] [1681716973.970919, 8343.617000]: Arrive the destination, reset!
+[INFO] [1681716978.813743, 8348.457000]: Collide with obstacle, reset!
+[INFO] [1681716982.898026, 8352.537000]: Arrive the destination, reset!
+[INFO] [1681716987.620631, 8357.257000]: Collide with obstacle, reset!
+[INFO] [1681716991.963124, 8361.597000]: Arrive the destination, reset!
+[INFO] [1681716996.505533, 8366.137000]: Collide with obstacle, reset!
+[INFO] [1681717001.129069, 8370.757000]: Collide with obstacle, reset!
+[INFO] [1681717005.411527, 8375.037000]: Arrive the destination, reset!
+[INFO] [1681717009.713744, 8379.337000]: Collide with obstacle, reset!
+
+-------------------- Iteration #112 --------------------
+Average Episodic Length: 200.55
+Average Episodic Return: 16.17
+Average Loss: -0.00251
+Timesteps So Far: 252173
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717009.755637, 8379.378000]: Collide with obstacle, reset!
+[INFO] [1681717013.936260, 8383.557000]: Arrive the destination, reset!
+[INFO] [1681717018.178440, 8387.797000]: Arrive the destination, reset!
+[INFO] [1681717022.460145, 8392.077000]: Arrive the destination, reset!
+[INFO] [1681717026.722337, 8396.337000]: Collide with obstacle, reset!
+[INFO] [1681717030.704272, 8400.317000]: Arrive the destination, reset!
+[INFO] [1681717034.946786, 8404.557000]: Arrive the destination, reset!
+[INFO] [1681717039.351032, 8408.957000]: Arrive the destination, reset!
+[INFO] [1681717043.453020, 8413.057000]: Arrive the destination, reset!
+[INFO] [1681717047.518255, 8417.117000]: Arrive the destination, reset!
+[INFO] [1681717051.781339, 8421.377000]: Arrive the destination, reset!
+
+-------------------- Iteration #113 --------------------
+Average Episodic Length: 190.09
+Average Episodic Return: 20.62
+Average Loss: -0.00136
+Timesteps So Far: 254264
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717051.824819, 8421.421000]: Arrive the destination, reset!
+[INFO] [1681717056.162783, 8425.757000]: Arrive the destination, reset!
+[INFO] [1681717060.705055, 8430.297000]: Arrive the destination, reset!
+[INFO] [1681717064.867264, 8434.457000]: Arrive the destination, reset!
+[INFO] [1681717069.089254, 8438.677000]: Arrive the destination, reset!
+[INFO] [1681717073.651603, 8443.237000]: Arrive the destination, reset!
+[INFO] [1681717077.814876, 8447.397000]: Arrive the destination, reset!
+[INFO] [1681717082.197032, 8451.777000]: Arrive the destination, reset!
+[INFO] [1681717086.639037, 8456.217000]: Arrive the destination, reset!
+[INFO] [1681717090.822142, 8460.397000]: Arrive the destination, reset!
+[INFO] [1681717095.164689, 8464.737000]: Arrive the destination, reset!
+
+-------------------- Iteration #114 --------------------
+Average Episodic Length: 196.09
+Average Episodic Return: 25.53
+Average Loss: -0.0016
+Timesteps So Far: 256421
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717095.205385, 8464.777000]: Arrive the destination, reset!
+[INFO] [1681717099.387028, 8468.957000]: Arrive the destination, reset!
+[INFO] [1681717103.709130, 8473.277000]: Arrive the destination, reset!
+[INFO] [1681717108.011246, 8477.577000]: Arrive the destination, reset!
+[INFO] [1681717112.273642, 8481.837000]: Arrive the destination, reset!
+[INFO] [1681717116.415402, 8485.977000]: Arrive the destination, reset!
+[INFO] [1681717120.697869, 8490.257000]: Arrive the destination, reset!
+[INFO] [1681717124.980072, 8494.537000]: Arrive the destination, reset!
+[INFO] [1681717129.322405, 8498.877000]: Arrive the destination, reset!
+[INFO] [1681717133.404346, 8502.957000]: Arrive the destination, reset!
+[INFO] [1681717137.786438, 8507.337000]: Arrive the destination, reset!
+
+-------------------- Iteration #115 --------------------
+Average Episodic Length: 192.64
+Average Episodic Return: 22.85
+Average Loss: -0.00116
+Timesteps So Far: 258540
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717137.826663, 8507.377000]: Arrive the destination, reset!
+[INFO] [1681717142.168927, 8511.717000]: Arrive the destination, reset!
+[INFO] [1681717143.469471, 8513.017000]: Collide with obstacle, reset!
+[INFO] [1681717147.691648, 8517.237000]: Arrive the destination, reset!
+[INFO] [1681717148.972333, 8518.517000]: Collide with obstacle, reset!
+[INFO] [1681717153.374477, 8522.917000]: Arrive the destination, reset!
+[INFO] [1681717157.396669, 8526.937000]: Arrive the destination, reset!
+[INFO] [1681717158.657015, 8528.197000]: Collide with obstacle, reset!
+[INFO] [1681717162.939239, 8532.477000]: Arrive the destination, reset!
+[INFO] [1681717167.141241, 8536.677000]: Arrive the destination, reset!
+[INFO] [1681717170.563601, 8540.097000]: Collide with obstacle, reset!
+[INFO] [1681717174.665595, 8544.197000]: Arrive the destination, reset!
+[INFO] [1681717178.887755, 8548.417000]: Arrive the destination, reset!
+[INFO] [1681717183.189940, 8552.717000]: Arrive the destination, reset!
+
+-------------------- Iteration #116 --------------------
+Average Episodic Length: 161.07
+Average Episodic Return: 18.9
+Average Loss: -0.00276
+Timesteps So Far: 260795
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717183.248104, 8552.775000]: Arrive the destination, reset!
+[INFO] [1681717187.373318, 8556.897000]: Arrive the destination, reset!
+[INFO] [1681717191.235066, 8560.757000]: Arrive the destination, reset!
+[INFO] [1681717195.157052, 8564.677000]: Arrive the destination, reset!
+[INFO] [1681717199.119057, 8568.637000]: Arrive the destination, reset!
+[INFO] [1681717203.262722, 8572.777000]: Arrive the destination, reset!
+[INFO] [1681717207.384582, 8576.897000]: Arrive the destination, reset!
+[INFO] [1681717211.586797, 8581.097000]: Collide with obstacle, reset!
+[INFO] [1681717215.448928, 8584.957000]: Arrive the destination, reset!
+[INFO] [1681717219.411201, 8588.917000]: Arrive the destination, reset!
+[INFO] [1681717222.832740, 8592.337000]: Collide with obstacle, reset!
+[INFO] [1681717226.934725, 8596.437000]: Arrive the destination, reset!
+
+-------------------- Iteration #117 --------------------
+Average Episodic Length: 181.17
+Average Episodic Return: 20.93
+Average Loss: -0.00121
+Timesteps So Far: 262969
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717231.218662, 8600.717000]: Collide with obstacle, reset!
+[INFO] [1681717235.479402, 8604.977000]: Collide with obstacle, reset!
+[INFO] [1681717239.841609, 8609.337000]: Collide with obstacle, reset!
+[INFO] [1681717243.983722, 8613.477000]: Arrive the destination, reset!
+[INFO] [1681717248.226146, 8617.717000]: Collide with obstacle, reset!
+[INFO] [1681717252.528039, 8622.017000]: Collide with obstacle, reset!
+[INFO] [1681717256.730202, 8626.217000]: Collide with obstacle, reset!
+[INFO] [1681717260.832805, 8630.317000]: Collide with obstacle, reset!
+[INFO] [1681717265.295310, 8634.777000]: Collide with obstacle, reset!
+[INFO] [1681717269.597698, 8639.077000]: Collide with obstacle, reset!
+
+-------------------- Iteration #118 --------------------
+Average Episodic Length: 212.2
+Average Episodic Return: 12.89
+Average Loss: -0.00338
+Timesteps So Far: 265091
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717269.637540, 8639.117000]: Collide with obstacle, reset!
+[INFO] [1681717274.119787, 8643.597000]: Collide with obstacle, reset!
+[INFO] [1681717278.521964, 8647.997000]: Collide with obstacle, reset!
+[INFO] [1681717282.824034, 8652.297000]: Collide with obstacle, reset!
+[INFO] [1681717287.546410, 8657.017000]: Collide with obstacle, reset!
+[INFO] [1681717291.708483, 8661.177000]: Arrive the destination, reset!
+[INFO] [1681717295.991321, 8665.457000]: Collide with obstacle, reset!
+[INFO] [1681717298.572780, 8668.037000]: Collide with obstacle, reset!
+[INFO] [1681717303.295136, 8672.757000]: Collide with obstacle, reset!
+[INFO] [1681717307.977502, 8677.437000]: Collide with obstacle, reset!
+[INFO] [1681717312.399978, 8681.857000]: Collide with obstacle, reset!
+
+-------------------- Iteration #119 --------------------
+Average Episodic Length: 193.45
+Average Episodic Return: 13.35
+Average Loss: -0.00158
+Timesteps So Far: 267219
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717312.440292, 8681.897000]: Collide with obstacle, reset!
+[INFO] [1681717316.842175, 8686.297000]: Arrive the destination, reset!
+[INFO] [1681717321.224583, 8690.677000]: Collide with obstacle, reset!
+[INFO] [1681717325.670187, 8695.117000]: Collide with obstacle, reset!
+[INFO] [1681717330.112730, 8699.557000]: Collide with obstacle, reset!
+[INFO] [1681717334.354852, 8703.797000]: Arrive the destination, reset!
+[INFO] [1681717338.697063, 8708.137000]: Collide with obstacle, reset!
+[INFO] [1681717343.019585, 8712.457000]: Arrive the destination, reset!
+[INFO] [1681717347.484482, 8716.917000]: Collide with obstacle, reset!
+[INFO] [1681717351.826575, 8721.257000]: Collide with obstacle, reset!
+[INFO] [1681717356.029140, 8725.457000]: Collide with obstacle, reset!
+
+-------------------- Iteration #120 --------------------
+Average Episodic Length: 197.18
+Average Episodic Return: 16.09
+Average Loss: -0.00191
+Timesteps So Far: 269388
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717356.068726, 8725.497000]: Collide with obstacle, reset!
+[INFO] [1681717360.531151, 8729.957000]: Collide with obstacle, reset!
+[INFO] [1681717364.693647, 8734.117000]: Arrive the destination, reset!
+[INFO] [1681717368.875484, 8738.297000]: Arrive the destination, reset!
+[INFO] [1681717373.017660, 8742.437000]: Collide with obstacle, reset!
+[INFO] [1681717377.140331, 8746.557000]: Arrive the destination, reset!
+[INFO] [1681717381.582568, 8750.997000]: Collide with obstacle, reset!
+[INFO] [1681717385.484633, 8754.897000]: Arrive the destination, reset!
+[INFO] [1681717389.886641, 8759.297000]: Collide with obstacle, reset!
+[INFO] [1681717394.169177, 8763.577000]: Arrive the destination, reset!
+[INFO] [1681717398.491246, 8767.897000]: Arrive the destination, reset!
+
+-------------------- Iteration #121 --------------------
+Average Episodic Length: 191.91
+Average Episodic Return: 19.94
+Average Loss: -0.00092
+Timesteps So Far: 271499
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717398.531341, 8767.937000]: Arrive the destination, reset!
+[INFO] [1681717402.653471, 8772.057000]: Arrive the destination, reset!
+[INFO] [1681717406.875465, 8776.277000]: Arrive the destination, reset!
+[INFO] [1681717411.058065, 8780.457000]: Arrive the destination, reset!
+[INFO] [1681717415.164169, 8784.557000]: Arrive the destination, reset!
+[INFO] [1681717419.666358, 8789.057000]: Arrive the destination, reset!
+[INFO] [1681717424.048611, 8793.437000]: Arrive the destination, reset!
+[INFO] [1681717428.210593, 8797.597000]: Arrive the destination, reset!
+[INFO] [1681717432.252745, 8801.637000]: Arrive the destination, reset!
+[INFO] [1681717436.334953, 8805.717000]: Arrive the destination, reset!
+[INFO] [1681717440.385749, 8809.765000]: Arrive the destination, reset!
+
+-------------------- Iteration #122 --------------------
+Average Episodic Length: 189.27
+Average Episodic Return: 25.32
+Average Loss: -0.00084
+Timesteps So Far: 273581
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717440.425308, 8809.804000]: Arrive the destination, reset!
+[INFO] [1681717445.179580, 8814.557000]: Collide with obstacle, reset!
+[INFO] [1681717449.542741, 8818.917000]: Collide with obstacle, reset!
+[INFO] [1681717453.764606, 8823.137000]: Arrive the destination, reset!
+[INFO] [1681717457.949566, 8827.317000]: Arrive the destination, reset!
+[INFO] [1681717461.911677, 8831.277000]: Arrive the destination, reset!
+[INFO] [1681717465.953662, 8835.317000]: Arrive the destination, reset!
+[INFO] [1681717470.435988, 8839.797000]: Arrive the destination, reset!
+[INFO] [1681717474.760176, 8844.117000]: Arrive the destination, reset!
+[INFO] [1681717478.902321, 8848.257000]: Arrive the destination, reset!
+[INFO] [1681717483.264375, 8852.617000]: Collide with obstacle, reset!
+
+-------------------- Iteration #123 --------------------
+Average Episodic Length: 193.82
+Average Episodic Return: 19.71
+Average Loss: -0.00167
+Timesteps So Far: 275713
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717487.607150, 8856.957000]: Arrive the destination, reset!
+[INFO] [1681717491.729379, 8861.077000]: Arrive the destination, reset!
+[INFO] [1681717495.751420, 8865.097000]: Arrive the destination, reset!
+[INFO] [1681717499.833499, 8869.177000]: Arrive the destination, reset!
+[INFO] [1681717504.356040, 8873.697000]: Arrive the destination, reset!
+[INFO] [1681717508.398022, 8877.737000]: Arrive the destination, reset!
+[INFO] [1681717512.620425, 8881.957000]: Arrive the destination, reset!
+[INFO] [1681717516.963191, 8886.297000]: Arrive the destination, reset!
+[INFO] [1681717521.045142, 8890.377000]: Arrive the destination, reset!
+[INFO] [1681717525.590808, 8894.917000]: Arrive the destination, reset!
+
+-------------------- Iteration #124 --------------------
+Average Episodic Length: 210.5
+Average Episodic Return: 24.87
+Average Loss: -0.00177
+Timesteps So Far: 277818
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717525.631766, 8894.957000]: Arrive the destination, reset!
+[INFO] [1681717530.033055, 8899.357000]: Arrive the destination, reset!
+[INFO] [1681717534.295040, 8903.617000]: Arrive the destination, reset!
+[INFO] [1681717538.818086, 8908.137000]: Arrive the destination, reset!
+[INFO] [1681717543.059720, 8912.377000]: Arrive the destination, reset!
+[INFO] [1681717547.342190, 8916.657000]: Arrive the destination, reset!
+[INFO] [1681717551.624451, 8920.937000]: Arrive the destination, reset!
+[INFO] [1681717555.586595, 8924.897000]: Arrive the destination, reset!
+[INFO] [1681717559.708522, 8929.017000]: Arrive the destination, reset!
+[INFO] [1681717564.452448, 8933.757000]: Collide with obstacle, reset!
+[INFO] [1681717568.434634, 8937.737000]: Arrive the destination, reset!
+
+-------------------- Iteration #125 --------------------
+Average Episodic Length: 193.64
+Average Episodic Return: 21.95
+Average Loss: -0.00053
+Timesteps So Far: 279948
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717568.474644, 8937.777000]: Arrive the destination, reset!
+[INFO] [1681717572.596805, 8941.897000]: Arrive the destination, reset!
+[INFO] [1681717577.199048, 8946.497000]: Collide with obstacle, reset!
+[INFO] [1681717581.361537, 8950.657000]: Arrive the destination, reset!
+[INFO] [1681717585.223682, 8954.517000]: Arrive the destination, reset!
+[INFO] [1681717589.245817, 8958.537000]: Arrive the destination, reset!
+[INFO] [1681717593.329901, 8962.617000]: Arrive the destination, reset!
+[INFO] [1681717597.391872, 8966.677000]: Arrive the destination, reset!
+[INFO] [1681717601.473907, 8970.757000]: Arrive the destination, reset!
+[INFO] [1681717605.656614, 8974.937000]: Arrive the destination, reset!
+[INFO] [1681717609.853985, 8979.130000]: Arrive the destination, reset!
+
+-------------------- Iteration #126 --------------------
+Average Episodic Length: 187.09
+Average Episodic Return: 24.32
+Average Loss: -0.0024
+Timesteps So Far: 282006
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717614.105027, 8983.381000]: Collide with obstacle, reset!
+[INFO] [1681717618.006915, 8987.281000]: Arrive the destination, reset!
+[INFO] [1681717622.088971, 8991.361000]: Arrive the destination, reset!
+[INFO] [1681717626.170973, 8995.441000]: Arrive the destination, reset!
+[INFO] [1681717630.272987, 8999.541000]: Arrive the destination, reset!
+[INFO] [1681717634.455873, 9003.721000]: Collide with obstacle, reset!
+[INFO] [1681717638.637938, 9007.901000]: Arrive the destination, reset!
+[INFO] [1681717642.960334, 9012.221000]: Collide with obstacle, reset!
+[INFO] [1681717646.967014, 9016.225000]: Arrive the destination, reset!
+[INFO] [1681717651.084468, 9020.341000]: Arrive the destination, reset!
+
+-------------------- Iteration #127 --------------------
+Average Episodic Length: 204.9
+Average Episodic Return: 20.93
+Average Loss: -0.00274
+Timesteps So Far: 284055
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717651.132842, 9020.389000]: Arrive the destination, reset!
+[INFO] [1681717652.425459, 9021.681000]: Collide with obstacle, reset!
+[INFO] [1681717656.407607, 9025.661000]: Arrive the destination, reset!
+[INFO] [1681717660.309551, 9029.561000]: Arrive the destination, reset!
+[INFO] [1681717664.374820, 9033.621000]: Arrive the destination, reset!
+[INFO] [1681717668.256627, 9037.501000]: Arrive the destination, reset!
+[INFO] [1681717671.978453, 9041.221000]: Arrive the destination, reset!
+[INFO] [1681717676.080564, 9045.321000]: Arrive the destination, reset!
+[INFO] [1681717680.042473, 9049.281000]: Arrive the destination, reset!
+[INFO] [1681717683.764354, 9053.001000]: Arrive the destination, reset!
+[INFO] [1681717687.746171, 9056.981000]: Arrive the destination, reset!
+[INFO] [1681717691.751949, 9060.981000]: Arrive the destination, reset!
+[INFO] [1681717695.994376, 9065.221000]: Arrive the destination, reset!
+
+-------------------- Iteration #128 --------------------
+Average Episodic Length: 171.62
+Average Episodic Return: 21.2
+Average Loss: -0.00099
+Timesteps So Far: 286286
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717696.034384, 9065.261000]: Arrive the destination, reset!
+[INFO] [1681717700.096492, 9069.321000]: Arrive the destination, reset!
+[INFO] [1681717704.058548, 9073.281000]: Collide with obstacle, reset!
+[INFO] [1681717708.260601, 9077.481000]: Collide with obstacle, reset!
+[INFO] [1681717711.982452, 9081.201000]: Arrive the destination, reset!
+[INFO] [1681717715.704514, 9084.921000]: Arrive the destination, reset!
+[INFO] [1681717719.729928, 9088.941000]: Collide with obstacle, reset!
+[INFO] [1681717723.752032, 9092.961000]: Arrive the destination, reset!
+[INFO] [1681717727.534045, 9096.741000]: Arrive the destination, reset!
+[INFO] [1681717731.395734, 9100.601000]: Arrive the destination, reset!
+[INFO] [1681717735.438243, 9104.641000]: Collide with obstacle, reset!
+[INFO] [1681717739.242017, 9108.441000]: Arrive the destination, reset!
+
+-------------------- Iteration #129 --------------------
+Average Episodic Length: 179.08
+Average Episodic Return: 18.61
+Average Loss: -0.00263
+Timesteps So Far: 288435
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717739.282062, 9108.481000]: Arrive the destination, reset!
+[INFO] [1681717743.344026, 9112.541000]: Arrive the destination, reset!
+[INFO] [1681717747.626502, 9116.821000]: Collide with obstacle, reset!
+[INFO] [1681717751.648592, 9120.841000]: Arrive the destination, reset!
+[INFO] [1681717755.490752, 9124.681000]: Arrive the destination, reset!
+[INFO] [1681717759.373024, 9128.561000]: Arrive the destination, reset!
+[INFO] [1681717763.194906, 9132.381000]: Arrive the destination, reset!
+[INFO] [1681717767.196855, 9136.381000]: Arrive the destination, reset!
+[INFO] [1681717779.122935, 9148.301000]: Arrive the destination, reset!
+[INFO] [1681717783.184959, 9152.361000]: Arrive the destination, reset!
+
+-------------------- Iteration #130 --------------------
+Average Episodic Length: 198.64
+Average Episodic Return: 20.6
+Average Loss: -0.00286
+Timesteps So Far: 290620
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717783.225032, 9152.401000]: Arrive the destination, reset!
+[INFO] [1681717787.386982, 9156.561000]: Arrive the destination, reset!
+[INFO] [1681717791.349383, 9160.521000]: Arrive the destination, reset!
+[INFO] [1681717795.271351, 9164.441000]: Arrive the destination, reset!
+[INFO] [1681717798.633495, 9167.801000]: Collide with obstacle, reset!
+[INFO] [1681717802.675164, 9171.841000]: Arrive the destination, reset!
+[INFO] [1681717806.697022, 9175.861000]: Arrive the destination, reset!
+[INFO] [1681717811.019496, 9180.181000]: Collide with obstacle, reset!
+[INFO] [1681717815.142292, 9184.301000]: Arrive the destination, reset!
+[INFO] [1681717819.004039, 9188.161000]: Arrive the destination, reset!
+[INFO] [1681717823.027573, 9192.181000]: Arrive the destination, reset!
+[INFO] [1681717826.810527, 9195.961000]: Arrive the destination, reset!
+
+-------------------- Iteration #131 --------------------
+Average Episodic Length: 180.67
+Average Episodic Return: 23.36
+Average Loss: -0.00312
+Timesteps So Far: 292788
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717826.852167, 9196.002000]: Arrive the destination, reset!
+[INFO] [1681717830.912634, 9200.061000]: Arrive the destination, reset!
+[INFO] [1681717834.654338, 9203.801000]: Arrive the destination, reset!
+[INFO] [1681717838.679703, 9207.821000]: Arrive the destination, reset!
+[INFO] [1681717842.281363, 9211.421000]: Arrive the destination, reset!
+[INFO] [1681717846.443419, 9215.581000]: Arrive the destination, reset!
+[INFO] [1681717850.229133, 9219.361000]: Arrive the destination, reset!
+[INFO] [1681717853.971321, 9223.101000]: Arrive the destination, reset!
+[INFO] [1681717857.734808, 9226.861000]: Arrive the destination, reset!
+[INFO] [1681717861.758495, 9230.881000]: Arrive the destination, reset!
+[INFO] [1681717865.720618, 9234.841000]: Arrive the destination, reset!
+[INFO] [1681717869.542441, 9238.661000]: Arrive the destination, reset!
+
+-------------------- Iteration #132 --------------------
+Average Episodic Length: 176.92
+Average Episodic Return: 24.84
+Average Loss: -0.00176
+Timesteps So Far: 294911
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717869.585058, 9238.703000]: Arrive the destination, reset!
+[INFO] [1681717873.504992, 9242.621000]: Arrive the destination, reset!
+[INFO] [1681717877.307010, 9246.421000]: Arrive the destination, reset!
+[INFO] [1681717881.189043, 9250.301000]: Arrive the destination, reset!
+[INFO] [1681717885.353429, 9254.461000]: Collide with obstacle, reset!
+[INFO] [1681717889.095891, 9258.201000]: Arrive the destination, reset!
+[INFO] [1681717892.937690, 9262.041000]: Arrive the destination, reset!
+[INFO] [1681717896.579345, 9265.681000]: Arrive the destination, reset!
+[INFO] [1681717900.481802, 9269.581000]: Arrive the destination, reset!
+[INFO] [1681717904.324394, 9273.421000]: Arrive the destination, reset!
+[INFO] [1681717908.206613, 9277.301000]: Collide with obstacle, reset!
+[INFO] [1681717911.968493, 9281.061000]: Arrive the destination, reset!
+
+-------------------- Iteration #133 --------------------
+Average Episodic Length: 175.67
+Average Episodic Return: 20.55
+Average Loss: -0.0028
+Timesteps So Far: 297019
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717912.008626, 9281.101000]: Arrive the destination, reset!
+[INFO] [1681717915.710307, 9284.801000]: Arrive the destination, reset!
+[INFO] [1681717919.572448, 9288.661000]: Arrive the destination, reset!
+[INFO] [1681717923.474525, 9292.561000]: Arrive the destination, reset!
+[INFO] [1681717927.376590, 9296.461000]: Arrive the destination, reset!
+[INFO] [1681717931.378898, 9300.461000]: Arrive the destination, reset!
+[INFO] [1681717935.300911, 9304.381000]: Arrive the destination, reset!
+[INFO] [1681717939.262863, 9308.341000]: Arrive the destination, reset!
+[INFO] [1681717943.124829, 9312.201000]: Arrive the destination, reset!
+[INFO] [1681717947.006657, 9316.081000]: Arrive the destination, reset!
+[INFO] [1681717950.348470, 9319.421000]: Collide with obstacle, reset!
+[INFO] [1681717954.250516, 9323.321000]: Arrive the destination, reset!
+
+-------------------- Iteration #134 --------------------
+Average Episodic Length: 175.08
+Average Episodic Return: 24.23
+Average Loss: -0.00178
+Timesteps So Far: 299120
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717954.290577, 9323.361000]: Arrive the destination, reset!
+[INFO] [1681717957.932209, 9327.001000]: Arrive the destination, reset!
+[INFO] [1681717961.834572, 9330.901000]: Arrive the destination, reset!
+[INFO] [1681717965.516755, 9334.581000]: Arrive the destination, reset!
+[INFO] [1681717969.358816, 9338.421000]: Collide with obstacle, reset!
+[INFO] [1681717973.781016, 9342.841000]: Collide with obstacle, reset!
+[INFO] [1681717977.602977, 9346.661000]: Arrive the destination, reset!
+[INFO] [1681717981.665103, 9350.721000]: Arrive the destination, reset!
+[INFO] [1681717985.667349, 9354.721000]: Arrive the destination, reset!
+[INFO] [1681717989.749349, 9358.801000]: Arrive the destination, reset!
+[INFO] [1681717993.411414, 9362.461000]: Arrive the destination, reset!
+[INFO] [1681717997.473368, 9366.521000]: Arrive the destination, reset!
+
+-------------------- Iteration #135 --------------------
+Average Episodic Length: 179.0
+Average Episodic Return: 23.06
+Average Loss: -0.00156
+Timesteps So Far: 301268
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681717997.519372, 9366.566000]: Arrive the destination, reset!
+[INFO] [1681718001.415058, 9370.461000]: Arrive the destination, reset!
+[INFO] [1681718005.517714, 9374.561000]: Arrive the destination, reset!
+[INFO] [1681718008.639426, 9377.681000]: Collide with obstacle, reset!
+[INFO] [1681718012.681887, 9381.721000]: Arrive the destination, reset!
+[INFO] [1681718016.343345, 9385.381000]: Arrive the destination, reset!
+[INFO] [1681718020.125239, 9389.161000]: Arrive the destination, reset!
+[INFO] [1681718024.247508, 9393.281000]: Arrive the destination, reset!
+[INFO] [1681718027.949298, 9396.981000]: Arrive the destination, reset!
+[INFO] [1681718032.411415, 9401.441000]: Collide with obstacle, reset!
+[INFO] [1681718036.453338, 9405.481000]: Arrive the destination, reset!
+[INFO] [1681718040.655679, 9409.681000]: Collide with obstacle, reset!
+
+-------------------- Iteration #136 --------------------
+Average Episodic Length: 178.83
+Average Episodic Return: 21.9
+Average Loss: -0.0013
+Timesteps So Far: 303414
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718040.695691, 9409.721000]: Collide with obstacle, reset!
+[INFO] [1681718044.097812, 9413.121000]: Collide with obstacle, reset!
+[INFO] [1681718048.080635, 9417.101000]: Arrive the destination, reset!
+[INFO] [1681718052.402667, 9421.421000]: Collide with obstacle, reset!
+[INFO] [1681718056.464693, 9425.481000]: Arrive the destination, reset!
+[INFO] [1681718060.646741, 9429.661000]: Collide with obstacle, reset!
+[INFO] [1681718064.828895, 9433.841000]: Arrive the destination, reset!
+[INFO] [1681718068.791735, 9437.801000]: Arrive the destination, reset!
+[INFO] [1681718073.093853, 9442.101000]: Arrive the destination, reset!
+[INFO] [1681718077.536620, 9446.541000]: Collide with obstacle, reset!
+[INFO] [1681718081.703076, 9450.705000]: Arrive the destination, reset!
+[INFO] [1681718085.860671, 9454.861000]: Arrive the destination, reset!
+
+-------------------- Iteration #137 --------------------
+Average Episodic Length: 187.25
+Average Episodic Return: 20.38
+Average Loss: -0.00101
+Timesteps So Far: 305661
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718085.902717, 9454.903000]: Arrive the destination, reset!
+[INFO] [1681718089.802609, 9458.801000]: Arrive the destination, reset!
+[INFO] [1681718093.704869, 9462.701000]: Arrive the destination, reset!
+[INFO] [1681718094.965518, 9463.961000]: Collide with obstacle, reset!
+[INFO] [1681718099.047544, 9468.041000]: Arrive the destination, reset!
+[INFO] [1681718103.089649, 9472.081000]: Arrive the destination, reset!
+[INFO] [1681718107.031580, 9476.021000]: Arrive the destination, reset!
+[INFO] [1681718110.973732, 9479.961000]: Arrive the destination, reset!
+[INFO] [1681718114.675482, 9483.661000]: Arrive the destination, reset!
+[INFO] [1681718118.637371, 9487.621000]: Arrive the destination, reset!
+[INFO] [1681718122.579816, 9491.561000]: Arrive the destination, reset!
+[INFO] [1681718126.601928, 9495.581000]: Arrive the destination, reset!
+[INFO] [1681718130.523894, 9499.501000]: Arrive the destination, reset!
+
+-------------------- Iteration #138 --------------------
+Average Episodic Length: 170.69
+Average Episodic Return: 22.67
+Average Loss: -0.00154
+Timesteps So Far: 307880
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718130.572276, 9499.549000]: Arrive the destination, reset!
+[INFO] [1681718134.586044, 9503.561000]: Arrive the destination, reset!
+[INFO] [1681718138.948617, 9507.921000]: Collide with obstacle, reset!
+[INFO] [1681718142.750932, 9511.721000]: Arrive the destination, reset!
+[INFO] [1681718147.274318, 9516.241000]: Collide with obstacle, reset!
+[INFO] [1681718151.616484, 9520.581000]: Collide with obstacle, reset!
+[INFO] [1681718155.799265, 9524.761000]: Collide with obstacle, reset!
+[INFO] [1681718159.981216, 9528.941000]: Arrive the destination, reset!
+[INFO] [1681718164.083609, 9533.041000]: Collide with obstacle, reset!
+[INFO] [1681718168.265724, 9537.221000]: Arrive the destination, reset!
+[INFO] [1681718172.507838, 9541.461000]: Arrive the destination, reset!
+
+-------------------- Iteration #139 --------------------
+Average Episodic Length: 189.73
+Average Episodic Return: 19.71
+Average Loss: -0.00161
+Timesteps So Far: 309967
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718176.931204, 9545.881000]: Arrive the destination, reset!
+[INFO] [1681718180.993190, 9549.941000]: Arrive the destination, reset!
+[INFO] [1681718185.355333, 9554.301000]: Arrive the destination, reset!
+[INFO] [1681718189.557466, 9558.501000]: Arrive the destination, reset!
+[INFO] [1681718193.599550, 9562.541000]: Arrive the destination, reset!
+[INFO] [1681718197.561721, 9566.501000]: Arrive the destination, reset!
+[INFO] [1681718210.109206, 9579.041000]: Collide with obstacle, reset!
+[INFO] [1681718214.631862, 9583.561000]: Arrive the destination, reset!
+
+-------------------- Iteration #140 --------------------
+Average Episodic Length: 232.89
+Average Episodic Return: 22.41
+Average Loss: -0.00294
+Timesteps So Far: 312063
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718214.675493, 9583.604000]: Arrive the destination, reset!
+[INFO] [1681718218.013291, 9586.941000]: Collide with obstacle, reset!
+[INFO] [1681718221.595756, 9590.521000]: Collide with obstacle, reset!
+[INFO] [1681718226.018269, 9594.941000]: Arrive the destination, reset!
+[INFO] [1681718230.120526, 9599.041000]: Arrive the destination, reset!
+[INFO] [1681718234.403319, 9603.321000]: Arrive the destination, reset!
+[INFO] [1681718238.645291, 9607.561000]: Arrive the destination, reset!
+[INFO] [1681718242.987680, 9611.901000]: Arrive the destination, reset!
+[INFO] [1681718247.229593, 9616.141000]: Arrive the destination, reset!
+[INFO] [1681718251.594899, 9620.501000]: Arrive the destination, reset!
+[INFO] [1681718255.877005, 9624.781000]: Arrive the destination, reset!
+
+-------------------- Iteration #141 --------------------
+Average Episodic Length: 186.36
+Average Episodic Return: 23.01
+Average Loss: -0.0041
+Timesteps So Far: 314113
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718260.039640, 9628.941000]: Arrive the destination, reset!
+[INFO] [1681718264.121620, 9633.021000]: Arrive the destination, reset!
+[INFO] [1681718268.426216, 9637.321000]: Arrive the destination, reset!
+[INFO] [1681718272.569062, 9641.461000]: Arrive the destination, reset!
+[INFO] [1681718276.751194, 9645.641000]: Arrive the destination, reset!
+[INFO] [1681718281.233093, 9650.121000]: Collide with obstacle, reset!
+[INFO] [1681718285.935853, 9654.821000]: Collide with obstacle, reset!
+[INFO] [1681718290.057911, 9658.941000]: Arrive the destination, reset!
+[INFO] [1681718294.840629, 9663.721000]: Collide with obstacle, reset!
+[INFO] [1681718299.243694, 9668.121000]: Arrive the destination, reset!
+
+-------------------- Iteration #142 --------------------
+Average Episodic Length: 215.7
+Average Episodic Return: 24.24
+Average Loss: -0.00125
+Timesteps So Far: 316270
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718299.283715, 9668.161000]: Arrive the destination, reset!
+[INFO] [1681718303.345802, 9672.221000]: Arrive the destination, reset!
+[INFO] [1681718306.787756, 9675.661000]: Collide with obstacle, reset!
+[INFO] [1681718310.809871, 9679.681000]: Arrive the destination, reset!
+[INFO] [1681718315.112038, 9683.981000]: Arrive the destination, reset!
+[INFO] [1681718318.713924, 9687.581000]: Collide with obstacle, reset!
+[INFO] [1681718322.598304, 9691.461000]: Arrive the destination, reset!
+[INFO] [1681718326.880026, 9695.741000]: Arrive the destination, reset!
+[INFO] [1681718331.202581, 9700.061000]: Arrive the destination, reset!
+[INFO] [1681718335.604906, 9704.461000]: Arrive the destination, reset!
+[INFO] [1681718339.887508, 9708.741000]: Arrive the destination, reset!
+[INFO] [1681718343.791619, 9712.641000]: Arrive the destination, reset!
+
+-------------------- Iteration #143 --------------------
+Average Episodic Length: 184.5
+Average Episodic Return: 23.33
+Average Loss: -0.00263
+Timesteps So Far: 318484
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718343.831527, 9712.681000]: Arrive the destination, reset!
+[INFO] [1681718347.573407, 9716.421000]: Arrive the destination, reset!
+[INFO] [1681718351.455329, 9720.301000]: Arrive the destination, reset!
+[INFO] [1681718355.437415, 9724.281000]: Arrive the destination, reset!
+[INFO] [1681718359.539433, 9728.381000]: Collide with obstacle, reset!
+[INFO] [1681718364.081722, 9732.921000]: Collide with obstacle, reset!
+[INFO] [1681718368.003565, 9736.841000]: Arrive the destination, reset!
+[INFO] [1681718372.007187, 9740.841000]: Arrive the destination, reset!
+[INFO] [1681718375.989326, 9744.821000]: Arrive the destination, reset!
+[INFO] [1681718379.951346, 9748.781000]: Arrive the destination, reset!
+[INFO] [1681718383.673136, 9752.501000]: Arrive the destination, reset!
+[INFO] [1681718387.555189, 9756.381000]: Arrive the destination, reset!
+
+-------------------- Iteration #144 --------------------
+Average Episodic Length: 181.25
+Average Episodic Return: 22.91
+Average Loss: -0.0019
+Timesteps So Far: 320659
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718387.595221, 9756.421000]: Arrive the destination, reset!
+[INFO] [1681718391.417038, 9760.241000]: Arrive the destination, reset!
+[INFO] [1681718395.239329, 9764.061000]: Arrive the destination, reset!
+[INFO] [1681718399.061216, 9767.881000]: Arrive the destination, reset!
+[INFO] [1681718402.926921, 9771.741000]: Arrive the destination, reset!
+[INFO] [1681718406.968826, 9775.781000]: Arrive the destination, reset!
+[INFO] [1681718410.850746, 9779.661000]: Arrive the destination, reset!
+[INFO] [1681718414.733696, 9783.541000]: Arrive the destination, reset!
+[INFO] [1681718419.076609, 9787.881000]: Arrive the destination, reset!
+[INFO] [1681718422.818544, 9791.621000]: Arrive the destination, reset!
+[INFO] [1681718426.600514, 9795.401000]: Arrive the destination, reset!
+[INFO] [1681718430.802398, 9799.601000]: Arrive the destination, reset!
+
+-------------------- Iteration #145 --------------------
+Average Episodic Length: 179.08
+Average Episodic Return: 25.2
+Average Loss: -0.0032
+Timesteps So Far: 322808
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718430.844943, 9799.643000]: Arrive the destination, reset!
+[INFO] [1681718434.684476, 9803.481000]: Arrive the destination, reset!
+[INFO] [1681718438.566483, 9807.361000]: Arrive the destination, reset!
+[INFO] [1681718442.628704, 9811.421000]: Arrive the destination, reset!
+[INFO] [1681718446.590613, 9815.381000]: Arrive the destination, reset!
+[INFO] [1681718450.592705, 9819.381000]: Arrive the destination, reset!
+[INFO] [1681718454.314471, 9823.101000]: Arrive the destination, reset!
+[INFO] [1681718458.096516, 9826.881000]: Arrive the destination, reset!
+[INFO] [1681718461.958495, 9830.741000]: Arrive the destination, reset!
+[INFO] [1681718466.240785, 9835.021000]: Collide with obstacle, reset!
+[INFO] [1681718470.182799, 9838.961000]: Collide with obstacle, reset!
+[INFO] [1681718474.304749, 9843.081000]: Collide with obstacle, reset!
+
+-------------------- Iteration #146 --------------------
+Average Episodic Length: 180.17
+Average Episodic Return: 21.61
+Average Loss: -0.00299
+Timesteps So Far: 324970
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718474.345315, 9843.121000]: Collide with obstacle, reset!
+[INFO] [1681718478.307089, 9847.081000]: Arrive the destination, reset!
+[INFO] [1681718482.349537, 9851.121000]: Arrive the destination, reset!
+[INFO] [1681718486.231503, 9855.001000]: Arrive the destination, reset!
+[INFO] [1681718490.093549, 9858.861000]: Arrive the destination, reset!
+[INFO] [1681718494.318034, 9863.081000]: Arrive the destination, reset!
+[INFO] [1681718498.300028, 9867.061000]: Arrive the destination, reset!
+[INFO] [1681718502.022330, 9870.781000]: Arrive the destination, reset!
+[INFO] [1681718505.844070, 9874.601000]: Arrive the destination, reset!
+[INFO] [1681718509.966602, 9878.721000]: Arrive the destination, reset!
+[INFO] [1681718513.948491, 9882.701000]: Arrive the destination, reset!
+[INFO] [1681718517.751628, 9886.501000]: Arrive the destination, reset!
+
+-------------------- Iteration #147 --------------------
+Average Episodic Length: 179.92
+Average Episodic Return: 24.03
+Average Loss: -0.00231
+Timesteps So Far: 327129
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718521.856978, 9890.601000]: Arrive the destination, reset!
+[INFO] [1681718525.758978, 9894.501000]: Arrive the destination, reset!
+[INFO] [1681718529.741434, 9898.481000]: Arrive the destination, reset!
+[INFO] [1681718534.043966, 9902.781000]: Collide with obstacle, reset!
+[INFO] [1681718537.885880, 9906.621000]: Arrive the destination, reset!
+[INFO] [1681718541.567784, 9910.301000]: Arrive the destination, reset!
+[INFO] [1681718545.489572, 9914.221000]: Arrive the destination, reset!
+[INFO] [1681718549.471655, 9918.201000]: Arrive the destination, reset!
+[INFO] [1681718553.476787, 9922.201000]: Arrive the destination, reset!
+[INFO] [1681718557.198935, 9925.921000]: Arrive the destination, reset!
+[INFO] [1681718561.060730, 9929.781000]: Arrive the destination, reset!
+
+-------------------- Iteration #148 --------------------
+Average Episodic Length: 195.73
+Average Episodic Return: 20.57
+Average Loss: -0.0012
+Timesteps So Far: 329282
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718561.101039, 9929.821000]: Arrive the destination, reset!
+[INFO] [1681718564.442338, 9933.161000]: Collide with obstacle, reset!
+[INFO] [1681718568.704636, 9937.421000]: Arrive the destination, reset!
+[INFO] [1681718572.706592, 9941.421000]: Arrive the destination, reset!
+[INFO] [1681718576.728872, 9945.441000]: Arrive the destination, reset!
+[INFO] [1681718579.770336, 9948.481000]: Collide with obstacle, reset!
+[INFO] [1681718583.892604, 9952.601000]: Arrive the destination, reset!
+[INFO] [1681718587.994681, 9956.701000]: Arrive the destination, reset!
+[INFO] [1681718591.256365, 9959.961000]: Collide with obstacle, reset!
+[INFO] [1681718595.098346, 9963.801000]: Arrive the destination, reset!
+[INFO] [1681718599.140759, 9967.841000]: Arrive the destination, reset!
+[INFO] [1681718602.802755, 9971.501000]: Arrive the destination, reset!
+
+-------------------- Iteration #149 --------------------
+Average Episodic Length: 172.83
+Average Episodic Return: 21.57
+Average Loss: -0.00307
+Timesteps So Far: 331356
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718602.842791, 9971.541000]: Arrive the destination, reset!
+[INFO] [1681718606.784832, 9975.481000]: Arrive the destination, reset!
+[INFO] [1681718610.726573, 9979.421000]: Arrive the destination, reset!
+[INFO] [1681718614.568146, 9983.261000]: Arrive the destination, reset!
+[INFO] [1681718618.671050, 9987.361000]: Arrive the destination, reset!
+[INFO] [1681718622.513021, 9991.201000]: Arrive the destination, reset!
+[INFO] [1681718626.194976, 9994.881000]: Arrive the destination, reset!
+[INFO] [1681718630.138913, 9998.821000]: Arrive the destination, reset!
+[INFO] [1681718634.141064, 10002.821000]: Arrive the destination, reset!
+[INFO] [1681718637.883016, 10006.561000]: Arrive the destination, reset!
+[INFO] [1681718641.664894, 10010.341000]: Arrive the destination, reset!
+[INFO] [1681718645.367158, 10014.041000]: Arrive the destination, reset!
+
+-------------------- Iteration #150 --------------------
+Average Episodic Length: 176.25
+Average Episodic Return: 24.76
+Average Loss: -0.00228
+Timesteps So Far: 333471
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718645.412697, 10014.086000]: Arrive the destination, reset!
+[INFO] [1681718648.988851, 10017.661000]: Arrive the destination, reset!
+[INFO] [1681718652.851058, 10021.521000]: Arrive the destination, reset!
+[INFO] [1681718656.713144, 10025.381000]: Arrive the destination, reset!
+[INFO] [1681718660.214722, 10028.881000]: Arrive the destination, reset!
+[INFO] [1681718663.856735, 10032.521000]: Arrive the destination, reset!
+[INFO] [1681718667.638716, 10036.301000]: Arrive the destination, reset!
+[INFO] [1681718671.360703, 10040.021000]: Arrive the destination, reset!
+[INFO] [1681718675.124364, 10043.781000]: Arrive the destination, reset!
+[INFO] [1681718678.285947, 10046.941000]: Collide with obstacle, reset!
+[INFO] [1681718682.007756, 10050.661000]: Arrive the destination, reset!
+[INFO] [1681718685.589678, 10054.241000]: Arrive the destination, reset!
+[INFO] [1681718689.611763, 10058.261000]: Arrive the destination, reset!
+
+-------------------- Iteration #151 --------------------
+Average Episodic Length: 169.08
+Average Episodic Return: 23.74
+Average Loss: -0.00351
+Timesteps So Far: 335669
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718689.652672, 10058.301000]: Arrive the destination, reset!
+[INFO] [1681718693.153422, 10061.801000]: Arrive the destination, reset!
+[INFO] [1681718696.916318, 10065.561000]: Arrive the destination, reset!
+[INFO] [1681718700.460034, 10069.101000]: Arrive the destination, reset!
+[INFO] [1681718704.182052, 10072.821000]: Arrive the destination, reset!
+[INFO] [1681718707.863988, 10076.501000]: Arrive the destination, reset!
+[INFO] [1681718711.606048, 10080.241000]: Arrive the destination, reset!
+[INFO] [1681718715.027827, 10083.661000]: Arrive the destination, reset!
+[INFO] [1681718718.750647, 10087.381000]: Arrive the destination, reset!
+[INFO] [1681718722.633259, 10091.261000]: Arrive the destination, reset!
+[INFO] [1681718726.395029, 10095.021000]: Arrive the destination, reset!
+[INFO] [1681718730.017491, 10098.641000]: Arrive the destination, reset!
+[INFO] [1681718733.879977, 10102.501000]: Arrive the destination, reset!
+
+-------------------- Iteration #152 --------------------
+Average Episodic Length: 169.15
+Average Episodic Return: 24.56
+Average Loss: -0.00278
+Timesteps So Far: 337868
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718733.920313, 10102.541000]: Arrive the destination, reset!
+[INFO] [1681718737.661923, 10106.281000]: Arrive the destination, reset!
+[INFO] [1681718741.143695, 10109.761000]: Arrive the destination, reset!
+[INFO] [1681718744.845566, 10113.461000]: Arrive the destination, reset!
+[INFO] [1681718748.447294, 10117.061000]: Arrive the destination, reset!
+[INFO] [1681718752.549513, 10121.161000]: Collide with obstacle, reset!
+[INFO] [1681718756.211593, 10124.821000]: Arrive the destination, reset!
+[INFO] [1681718759.813610, 10128.421000]: Arrive the destination, reset!
+[INFO] [1681718763.415587, 10132.021000]: Arrive the destination, reset!
+[INFO] [1681718767.057520, 10135.661000]: Arrive the destination, reset!
+[INFO] [1681718770.659081, 10139.261000]: Arrive the destination, reset!
+[INFO] [1681718774.420979, 10143.021000]: Arrive the destination, reset!
+[INFO] [1681718778.062762, 10146.661000]: Arrive the destination, reset!
+
+-------------------- Iteration #153 --------------------
+Average Episodic Length: 168.85
+Average Episodic Return: 23.39
+Average Loss: -0.00278
+Timesteps So Far: 340063
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718781.738194, 10150.334000]: Arrive the destination, reset!
+[INFO] [1681718785.219788, 10153.814000]: Arrive the destination, reset!
+[INFO] [1681718788.341739, 10156.934000]: Collide with obstacle, reset!
+[INFO] [1681718792.083763, 10160.674000]: Arrive the destination, reset!
+[INFO] [1681718795.505486, 10164.094000]: Arrive the destination, reset!
+[INFO] [1681718799.267408, 10167.854000]: Arrive the destination, reset!
+[INFO] [1681718802.949574, 10171.534000]: Arrive the destination, reset!
+[INFO] [1681718806.491561, 10175.074000]: Arrive the destination, reset!
+[INFO] [1681718810.013664, 10178.594000]: Arrive the destination, reset!
+[INFO] [1681718813.575596, 10182.154000]: Arrive the destination, reset!
+[INFO] [1681718817.357672, 10185.934000]: Arrive the destination, reset!
+[INFO] [1681718820.799205, 10189.374000]: Arrive the destination, reset!
+
+-------------------- Iteration #154 --------------------
+Average Episodic Length: 176.75
+Average Episodic Return: 22.59
+Average Loss: -0.00187
+Timesteps So Far: 342184
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718820.840169, 10189.414000]: Arrive the destination, reset!
+[INFO] [1681718824.301017, 10192.874000]: Arrive the destination, reset!
+[INFO] [1681718827.843047, 10196.414000]: Arrive the destination, reset!
+[INFO] [1681718831.345608, 10199.914000]: Arrive the destination, reset!
+[INFO] [1681718834.727608, 10203.294000]: Arrive the destination, reset!
+[INFO] [1681718838.349338, 10206.914000]: Arrive the destination, reset!
+[INFO] [1681718842.131410, 10210.694000]: Arrive the destination, reset!
+[INFO] [1681718845.633105, 10214.194000]: Arrive the destination, reset!
+[INFO] [1681718849.234866, 10217.794000]: Arrive the destination, reset!
+[INFO] [1681718852.956573, 10221.514000]: Collide with obstacle, reset!
+[INFO] [1681718856.840058, 10225.394000]: Arrive the destination, reset!
+[INFO] [1681718860.462262, 10229.014000]: Arrive the destination, reset!
+[INFO] [1681718864.324189, 10232.874000]: Arrive the destination, reset!
+
+-------------------- Iteration #155 --------------------
+Average Episodic Length: 166.31
+Average Episodic Return: 23.32
+Average Loss: -0.00254
+Timesteps So Far: 344346
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718864.364332, 10232.914000]: Arrive the destination, reset!
+[INFO] [1681718868.266201, 10236.814000]: Arrive the destination, reset!
+[INFO] [1681718872.188047, 10240.734000]: Arrive the destination, reset!
+[INFO] [1681718876.170472, 10244.714000]: Arrive the destination, reset!
+[INFO] [1681718879.792364, 10248.334000]: Arrive the destination, reset!
+[INFO] [1681718883.614197, 10252.154000]: Arrive the destination, reset!
+[INFO] [1681718887.416770, 10255.954000]: Arrive the destination, reset!
+[INFO] [1681718891.138441, 10259.674000]: Arrive the destination, reset!
+[INFO] [1681718894.039815, 10262.574000]: Collide with obstacle, reset!
+[INFO] [1681718898.061935, 10266.594000]: Arrive the destination, reset!
+[INFO] [1681718901.544024, 10270.074000]: Arrive the destination, reset!
+[INFO] [1681718905.106160, 10273.634000]: Arrive the destination, reset!
+[INFO] [1681718909.051029, 10277.574000]: Arrive the destination, reset!
+
+-------------------- Iteration #156 --------------------
+Average Episodic Length: 170.92
+Average Episodic Return: 23.44
+Average Loss: -0.00389
+Timesteps So Far: 346568
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718909.092731, 10277.615000]: Arrive the destination, reset!
+[INFO] [1681718913.113849, 10281.634000]: Arrive the destination, reset!
+[INFO] [1681718917.315969, 10285.834000]: Arrive the destination, reset!
+[INFO] [1681718920.997836, 10289.514000]: Arrive the destination, reset!
+[INFO] [1681718925.199875, 10293.714000]: Arrive the destination, reset!
+[INFO] [1681718929.141835, 10297.654000]: Arrive the destination, reset!
+[INFO] [1681718933.144034, 10301.654000]: Arrive the destination, reset!
+[INFO] [1681718936.866296, 10305.374000]: Arrive the destination, reset!
+[INFO] [1681718940.928899, 10309.434000]: Arrive the destination, reset!
+[INFO] [1681718945.031036, 10313.534000]: Arrive the destination, reset!
+[INFO] [1681718949.120762, 10317.614000]: Arrive the destination, reset!
+[INFO] [1681718953.043442, 10321.534000]: Arrive the destination, reset!
+
+-------------------- Iteration #157 --------------------
+Average Episodic Length: 182.17
+Average Episodic Return: 25.08
+Average Loss: -0.00219
+Timesteps So Far: 348754
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718953.085262, 10321.575000]: Arrive the destination, reset!
+[INFO] [1681718956.985713, 10325.474000]: Arrive the destination, reset!
+[INFO] [1681718961.029659, 10329.514000]: Arrive the destination, reset!
+[INFO] [1681718964.692513, 10333.174000]: Arrive the destination, reset!
+[INFO] [1681718968.655215, 10337.134000]: Arrive the destination, reset!
+[INFO] [1681718972.538115, 10341.014000]: Arrive the destination, reset!
+[INFO] [1681718976.220526, 10344.694000]: Arrive the destination, reset!
+[INFO] [1681718980.083114, 10348.554000]: Arrive the destination, reset!
+[INFO] [1681718983.928032, 10352.394000]: Arrive the destination, reset!
+[INFO] [1681718988.171130, 10356.634000]: Arrive the destination, reset!
+[INFO] [1681718992.354439, 10360.814000]: Arrive the destination, reset!
+[INFO] [1681718996.038581, 10364.494000]: Arrive the destination, reset!
+
+-------------------- Iteration #158 --------------------
+Average Episodic Length: 178.0
+Average Episodic Return: 22.31
+Average Loss: -0.00347
+Timesteps So Far: 350890
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681718996.083694, 10364.534000]: Arrive the destination, reset!
+[INFO] [1681718999.445739, 10367.894000]: Arrive the destination, reset!
+[INFO] [1681719003.068979, 10371.514000]: Arrive the destination, reset!
+[INFO] [1681719006.810818, 10375.254000]: Arrive the destination, reset!
+[INFO] [1681719010.813804, 10379.254000]: Arrive the destination, reset!
+[INFO] [1681719014.449426, 10382.874000]: Arrive the destination, reset!
+[INFO] [1681719018.420407, 10386.834000]: Arrive the destination, reset!
+[INFO] [1681719022.402996, 10390.814000]: Arrive the destination, reset!
+[INFO] [1681719026.505053, 10394.914000]: Arrive the destination, reset!
+[INFO] [1681719030.307714, 10398.714000]: Arrive the destination, reset!
+[INFO] [1681719034.105050, 10402.494000]: Arrive the destination, reset!
+[INFO] [1681719038.071691, 10406.474000]: Arrive the destination, reset!
+
+-------------------- Iteration #159 --------------------
+Average Episodic Length: 173.92
+Average Episodic Return: 22.07
+Average Loss: -0.00128
+Timesteps So Far: 352977
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719038.118185, 10406.520000]: Arrive the destination, reset!
+[INFO] [1681719041.513636, 10409.914000]: Arrive the destination, reset!
+[INFO] [1681719045.115545, 10413.514000]: Arrive the destination, reset!
+[INFO] [1681719048.717361, 10417.114000]: Arrive the destination, reset!
+[INFO] [1681719052.319144, 10420.714000]: Arrive the destination, reset!
+[INFO] [1681719055.961002, 10424.354000]: Arrive the destination, reset!
+[INFO] [1681719059.802907, 10428.194000]: Arrive the destination, reset!
+[INFO] [1681719063.424787, 10431.814000]: Arrive the destination, reset!
+[INFO] [1681719066.906594, 10435.294000]: Arrive the destination, reset!
+[INFO] [1681719070.448050, 10438.834000]: Arrive the destination, reset!
+[INFO] [1681719074.050311, 10442.434000]: Arrive the destination, reset!
+[INFO] [1681719077.633767, 10446.014000]: Arrive the destination, reset!
+[INFO] [1681719081.195838, 10449.574000]: Arrive the destination, reset!
+
+-------------------- Iteration #160 --------------------
+Average Episodic Length: 164.77
+Average Episodic Return: 24.26
+Average Loss: -0.00273
+Timesteps So Far: 355119
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719081.235700, 10449.614000]: Arrive the destination, reset!
+[INFO] [1681719084.764886, 10453.134000]: Arrive the destination, reset!
+[INFO] [1681719088.446799, 10456.814000]: Arrive the destination, reset!
+[INFO] [1681719091.988186, 10460.354000]: Arrive the destination, reset!
+[INFO] [1681719094.209864, 10462.574000]: Collide with obstacle, reset!
+[INFO] [1681719097.370781, 10465.734000]: Arrive the destination, reset!
+[INFO] [1681719101.173020, 10469.534000]: Collide with obstacle, reset!
+[INFO] [1681719105.115137, 10473.474000]: Collide with obstacle, reset!
+[INFO] [1681719108.576870, 10476.934000]: Arrive the destination, reset!
+[INFO] [1681719112.198570, 10480.554000]: Arrive the destination, reset!
+[INFO] [1681719115.640759, 10483.994000]: Arrive the destination, reset!
+[INFO] [1681719119.302124, 10487.654000]: Arrive the destination, reset!
+[INFO] [1681719123.023921, 10491.374000]: Arrive the destination, reset!
+
+-------------------- Iteration #161 --------------------
+Average Episodic Length: 159.77
+Average Episodic Return: 20.57
+Average Loss: -0.00282
+Timesteps So Far: 357196
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719123.071807, 10491.421000]: Arrive the destination, reset!
+[INFO] [1681719126.407002, 10494.754000]: Arrive the destination, reset!
+[INFO] [1681719129.968982, 10498.314000]: Arrive the destination, reset!
+[INFO] [1681719133.270731, 10501.614000]: Arrive the destination, reset!
+[INFO] [1681719136.652361, 10504.994000]: Arrive the destination, reset!
+[INFO] [1681719140.214056, 10508.554000]: Arrive the destination, reset!
+[INFO] [1681719143.755919, 10512.094000]: Collide with obstacle, reset!
+[INFO] [1681719147.257788, 10515.594000]: Arrive the destination, reset!
+[INFO] [1681719150.619047, 10518.954000]: Arrive the destination, reset!
+[INFO] [1681719154.101028, 10522.434000]: Arrive the destination, reset!
+[INFO] [1681719157.723043, 10526.054000]: Arrive the destination, reset!
+[INFO] [1681719161.124540, 10529.454000]: Arrive the destination, reset!
+[INFO] [1681719164.626292, 10532.954000]: Arrive the destination, reset!
+
+-------------------- Iteration #162 --------------------
+Average Episodic Length: 158.92
+Average Episodic Return: 20.76
+Average Loss: -0.0046
+Timesteps So Far: 359262
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719164.666378, 10532.994000]: Arrive the destination, reset!
+[INFO] [1681719167.968061, 10536.294000]: Arrive the destination, reset!
+[INFO] [1681719171.450038, 10539.774000]: Arrive the destination, reset!
+[INFO] [1681719175.112581, 10543.434000]: Arrive the destination, reset!
+[INFO] [1681719178.434015, 10546.754000]: Arrive the destination, reset!
+[INFO] [1681719181.815829, 10550.134000]: Collide with obstacle, reset!
+[INFO] [1681719185.578065, 10553.894000]: Arrive the destination, reset!
+[INFO] [1681719188.839570, 10557.154000]: Arrive the destination, reset!
+[INFO] [1681719192.361405, 10560.674000]: Arrive the destination, reset!
+[INFO] [1681719195.683314, 10563.994000]: Arrive the destination, reset!
+[INFO] [1681719199.144987, 10567.454000]: Arrive the destination, reset!
+[INFO] [1681719202.527163, 10570.834000]: Arrive the destination, reset!
+[INFO] [1681719205.948709, 10574.254000]: Arrive the destination, reset!
+
+-------------------- Iteration #163 --------------------
+Average Episodic Length: 157.85
+Average Episodic Return: 22.64
+Average Loss: -0.00215
+Timesteps So Far: 361314
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719205.994702, 10574.299000]: Arrive the destination, reset!
+[INFO] [1681719209.350901, 10577.654000]: Arrive the destination, reset!
+[INFO] [1681719212.752073, 10581.054000]: Arrive the destination, reset!
+[INFO] [1681719216.174025, 10584.474000]: Arrive the destination, reset!
+[INFO] [1681719219.535919, 10587.834000]: Arrive the destination, reset!
+[INFO] [1681719222.837425, 10591.134000]: Arrive the destination, reset!
+[INFO] [1681719226.261544, 10594.554000]: Arrive the destination, reset!
+[INFO] [1681719229.683251, 10597.974000]: Arrive the destination, reset!
+[INFO] [1681719233.185048, 10601.474000]: Arrive the destination, reset!
+[INFO] [1681719236.806891, 10605.094000]: Arrive the destination, reset!
+[INFO] [1681719240.228676, 10608.514000]: Arrive the destination, reset!
+[INFO] [1681719243.630569, 10611.914000]: Arrive the destination, reset!
+[INFO] [1681719247.192312, 10615.474000]: Arrive the destination, reset!
+
+-------------------- Iteration #164 --------------------
+Average Episodic Length: 157.54
+Average Episodic Return: 23.82
+Average Loss: -0.003
+Timesteps So Far: 363362
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719247.237066, 10615.518000]: Arrive the destination, reset!
+[INFO] [1681719250.794803, 10619.074000]: Arrive the destination, reset!
+[INFO] [1681719254.156897, 10622.434000]: Arrive the destination, reset!
+[INFO] [1681719257.538368, 10625.814000]: Arrive the destination, reset!
+[INFO] [1681719261.320484, 10629.594000]: Arrive the destination, reset!
+[INFO] [1681719264.922088, 10633.194000]: Arrive the destination, reset!
+[INFO] [1681719268.464022, 10636.734000]: Arrive the destination, reset!
+[INFO] [1681719272.105879, 10640.374000]: Arrive the destination, reset!
+[INFO] [1681719275.467606, 10643.734000]: Arrive the destination, reset!
+[INFO] [1681719278.729405, 10646.994000]: Arrive the destination, reset!
+[INFO] [1681719281.710685, 10649.974000]: Collide with obstacle, reset!
+[INFO] [1681719285.112078, 10653.374000]: Arrive the destination, reset!
+[INFO] [1681719288.454042, 10656.714000]: Arrive the destination, reset!
+
+-------------------- Iteration #165 --------------------
+Average Episodic Length: 157.62
+Average Episodic Return: 18.63
+Average Loss: -0.00255
+Timesteps So Far: 365411
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719288.506157, 10656.766000]: Arrive the destination, reset!
+[INFO] [1681719291.577735, 10659.834000]: Arrive the destination, reset!
+[INFO] [1681719295.099527, 10663.354000]: Arrive the destination, reset!
+[INFO] [1681719298.421024, 10666.674000]: Arrive the destination, reset!
+[INFO] [1681719301.822746, 10670.074000]: Arrive the destination, reset!
+[INFO] [1681719305.164469, 10673.414000]: Arrive the destination, reset!
+[INFO] [1681719308.487445, 10676.734000]: Arrive the destination, reset!
+[INFO] [1681719311.829028, 10680.074000]: Arrive the destination, reset!
+[INFO] [1681719315.151029, 10683.394000]: Arrive the destination, reset!
+[INFO] [1681719318.372889, 10686.614000]: Arrive the destination, reset!
+[INFO] [1681719321.876190, 10690.115000]: Arrive the destination, reset!
+[INFO] [1681719325.056475, 10693.294000]: Arrive the destination, reset!
+[INFO] [1681719328.278029, 10696.514000]: Arrive the destination, reset!
+[INFO] [1681719331.579697, 10699.814000]: Arrive the destination, reset!
+
+-------------------- Iteration #166 --------------------
+Average Episodic Length: 152.93
+Average Episodic Return: 21.63
+Average Loss: -0.00203
+Timesteps So Far: 367552
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719331.619907, 10699.854000]: Arrive the destination, reset!
+[INFO] [1681719334.601206, 10702.834000]: Arrive the destination, reset!
+[INFO] [1681719337.742954, 10705.974000]: Arrive the destination, reset!
+[INFO] [1681719340.844462, 10709.074000]: Arrive the destination, reset!
+[INFO] [1681719344.066306, 10712.294000]: Arrive the destination, reset!
+[INFO] [1681719347.428020, 10715.654000]: Arrive the destination, reset!
+[INFO] [1681719350.929841, 10719.154000]: Arrive the destination, reset!
+[INFO] [1681719354.171462, 10722.394000]: Arrive the destination, reset!
+[INFO] [1681719357.373267, 10725.594000]: Arrive the destination, reset!
+[INFO] [1681719360.396220, 10728.614000]: Arrive the destination, reset!
+[INFO] [1681719363.538166, 10731.754000]: Arrive the destination, reset!
+[INFO] [1681719366.679960, 10734.894000]: Arrive the destination, reset!
+[INFO] [1681719369.807043, 10738.014000]: Arrive the destination, reset!
+[INFO] [1681719372.908741, 10741.114000]: Arrive the destination, reset!
+
+-------------------- Iteration #167 --------------------
+Average Episodic Length: 146.5
+Average Episodic Return: 23.25
+Average Loss: -0.00142
+Timesteps So Far: 369603
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719376.115700, 10744.318000]: Arrive the destination, reset!
+[INFO] [1681719379.137024, 10747.338000]: Arrive the destination, reset!
+[INFO] [1681719382.159073, 10750.358000]: Arrive the destination, reset!
+[INFO] [1681719385.240529, 10753.438000]: Arrive the destination, reset!
+[INFO] [1681719388.302108, 10756.498000]: Arrive the destination, reset!
+[INFO] [1681719391.383713, 10759.578000]: Arrive the destination, reset!
+[INFO] [1681719394.505230, 10762.698000]: Arrive the destination, reset!
+[INFO] [1681719397.546714, 10765.738000]: Arrive the destination, reset!
+[INFO] [1681719400.808388, 10768.998000]: Arrive the destination, reset!
+[INFO] [1681719403.890169, 10772.078000]: Arrive the destination, reset!
+[INFO] [1681719406.773597, 10774.958000]: Arrive the destination, reset!
+[INFO] [1681719410.135469, 10778.318000]: Arrive the destination, reset!
+[INFO] [1681719413.378286, 10781.558000]: Arrive the destination, reset!
+[INFO] [1681719416.459729, 10784.638000]: Arrive the destination, reset!
+
+-------------------- Iteration #168 --------------------
+Average Episodic Length: 154.29
+Average Episodic Return: 22.51
+Average Loss: -0.00183
+Timesteps So Far: 371763
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719416.499750, 10784.678000]: Arrive the destination, reset!
+[INFO] [1681719419.541167, 10787.718000]: Arrive the destination, reset!
+[INFO] [1681719422.542600, 10790.718000]: Arrive the destination, reset!
+[INFO] [1681719425.764512, 10793.938000]: Collide with obstacle, reset!
+[INFO] [1681719429.167193, 10797.338000]: Collide with obstacle, reset!
+[INFO] [1681719432.329041, 10800.498000]: Collide with obstacle, reset!
+[INFO] [1681719435.612096, 10803.778000]: Arrive the destination, reset!
+[INFO] [1681719438.814048, 10806.978000]: Collide with obstacle, reset!
+[INFO] [1681719442.117852, 10810.278000]: Collide with obstacle, reset!
+[INFO] [1681719445.439408, 10813.598000]: Collide with obstacle, reset!
+[INFO] [1681719448.460835, 10816.618000]: Arrive the destination, reset!
+[INFO] [1681719451.482374, 10819.638000]: Arrive the destination, reset!
+[INFO] [1681719454.564001, 10822.718000]: Arrive the destination, reset!
+[INFO] [1681719457.605373, 10825.758000]: Arrive the destination, reset!
+[INFO] [1681719460.747021, 10828.898000]: Arrive the destination, reset!
+
+-------------------- Iteration #169 --------------------
+Average Episodic Length: 146.53
+Average Episodic Return: 16.54
+Average Loss: -0.00366
+Timesteps So Far: 373961
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719460.795300, 10828.946000]: Arrive the destination, reset!
+[INFO] [1681719464.088834, 10832.238000]: Collide with obstacle, reset!
+[INFO] [1681719467.170422, 10835.318000]: Arrive the destination, reset!
+[INFO] [1681719470.352009, 10838.498000]: Arrive the destination, reset!
+[INFO] [1681719473.413609, 10841.558000]: Arrive the destination, reset!
+[INFO] [1681719476.595020, 10844.738000]: Arrive the destination, reset!
+[INFO] [1681719479.676952, 10847.818000]: Arrive the destination, reset!
+[INFO] [1681719482.740591, 10850.878000]: Arrive the destination, reset!
+[INFO] [1681719485.922107, 10854.058000]: Arrive the destination, reset!
+[INFO] [1681719488.964365, 10857.098000]: Arrive the destination, reset!
+[INFO] [1681719492.026265, 10860.158000]: Arrive the destination, reset!
+[INFO] [1681719495.150007, 10863.278000]: Arrive the destination, reset!
+[INFO] [1681719498.291580, 10866.418000]: Arrive the destination, reset!
+[INFO] [1681719501.453121, 10869.578000]: Arrive the destination, reset!
+[INFO] [1681719504.635733, 10872.758000]: Arrive the destination, reset!
+
+-------------------- Iteration #170 --------------------
+Average Episodic Length: 145.2
+Average Episodic Return: 22.42
+Average Loss: -0.00105
+Timesteps So Far: 376139
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719504.676544, 10872.798000]: Arrive the destination, reset!
+[INFO] [1681719507.697514, 10875.818000]: Arrive the destination, reset!
+[INFO] [1681719510.798971, 10878.918000]: Arrive the destination, reset!
+[INFO] [1681719513.842181, 10881.958000]: Arrive the destination, reset!
+[INFO] [1681719516.983969, 10885.098000]: Arrive the destination, reset!
+[INFO] [1681719520.145495, 10888.258000]: Arrive the destination, reset!
+[INFO] [1681719523.267248, 10891.378000]: Arrive the destination, reset!
+[INFO] [1681719526.468935, 10894.578000]: Arrive the destination, reset!
+[INFO] [1681719529.530324, 10897.638000]: Arrive the destination, reset!
+[INFO] [1681719532.591834, 10900.698000]: Arrive the destination, reset!
+[INFO] [1681719535.633666, 10903.738000]: Arrive the destination, reset!
+[INFO] [1681719538.676637, 10906.778000]: Arrive the destination, reset!
+[INFO] [1681719541.697962, 10909.798000]: Arrive the destination, reset!
+[INFO] [1681719544.739520, 10912.838000]: Arrive the destination, reset!
+[INFO] [1681719547.761068, 10915.858000]: Arrive the destination, reset!
+
+-------------------- Iteration #171 --------------------
+Average Episodic Length: 142.67
+Average Episodic Return: 23.26
+Average Loss: -0.00249
+Timesteps So Far: 378279
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719547.802234, 10915.898000]: Arrive the destination, reset!
+[INFO] [1681719550.903889, 10918.998000]: Arrive the destination, reset!
+[INFO] [1681719554.065459, 10922.158000]: Arrive the destination, reset!
+[INFO] [1681719557.027016, 10925.118000]: Arrive the destination, reset!
+[INFO] [1681719560.228488, 10928.318000]: Arrive the destination, reset!
+[INFO] [1681719563.290088, 10931.378000]: Arrive the destination, reset!
+[INFO] [1681719566.491805, 10934.578000]: Arrive the destination, reset!
+[INFO] [1681719569.673130, 10937.758000]: Arrive the destination, reset!
+[INFO] [1681719572.854850, 10940.938000]: Arrive the destination, reset!
+[INFO] [1681719575.776483, 10943.858000]: Arrive the destination, reset!
+[INFO] [1681719578.958026, 10947.038000]: Arrive the destination, reset!
+[INFO] [1681719582.059969, 10950.138000]: Arrive the destination, reset!
+[INFO] [1681719585.143832, 10953.218000]: Arrive the destination, reset!
+[INFO] [1681719588.265460, 10956.338000]: Arrive the destination, reset!
+[INFO] [1681719591.467233, 10959.538000]: Arrive the destination, reset!
+
+-------------------- Iteration #172 --------------------
+Average Episodic Length: 144.6
+Average Episodic Return: 23.21
+Average Loss: -0.00287
+Timesteps So Far: 380448
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719591.508098, 10959.578000]: Arrive the destination, reset!
+[INFO] [1681719594.548814, 10962.618000]: Arrive the destination, reset!
+[INFO] [1681719597.690688, 10965.758000]: Arrive the destination, reset!
+[INFO] [1681719601.072946, 10969.138000]: Collide with obstacle, reset!
+[INFO] [1681719604.114454, 10972.178000]: Arrive the destination, reset!
+[INFO] [1681719607.195663, 10975.258000]: Arrive the destination, reset!
+[INFO] [1681719610.258293, 10978.318000]: Arrive the destination, reset!
+[INFO] [1681719613.399849, 10981.458000]: Arrive the destination, reset!
+[INFO] [1681719616.464266, 10984.518000]: Arrive the destination, reset!
+[INFO] [1681719619.545706, 10987.598000]: Arrive the destination, reset!
+[INFO] [1681719622.567310, 10990.618000]: Arrive the destination, reset!
+[INFO] [1681719625.628885, 10993.678000]: Arrive the destination, reset!
+[INFO] [1681719628.690444, 10996.738000]: Arrive the destination, reset!
+[INFO] [1681719631.792033, 10999.838000]: Arrive the destination, reset!
+[INFO] [1681719634.793539, 11002.838000]: Arrive the destination, reset!
+
+-------------------- Iteration #173 --------------------
+Average Episodic Length: 143.33
+Average Episodic Return: 22.33
+Average Loss: -0.0025
+Timesteps So Far: 382598
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719634.836297, 11002.878000]: Arrive the destination, reset!
+[INFO] [1681719638.017749, 11006.058000]: Arrive the destination, reset!
+[INFO] [1681719641.119737, 11009.158000]: Arrive the destination, reset!
+[INFO] [1681719644.261024, 11012.298000]: Arrive the destination, reset!
+[INFO] [1681719647.482704, 11015.518000]: Collide with obstacle, reset!
+[INFO] [1681719650.624348, 11018.658000]: Arrive the destination, reset!
+[INFO] [1681719653.766005, 11021.798000]: Arrive the destination, reset!
+[INFO] [1681719656.807438, 11024.838000]: Arrive the destination, reset!
+[INFO] [1681719659.829072, 11027.858000]: Arrive the destination, reset!
+[INFO] [1681719662.790567, 11030.818000]: Arrive the destination, reset!
+[INFO] [1681719666.072310, 11034.098000]: Arrive the destination, reset!
+[INFO] [1681719669.194124, 11037.218000]: Arrive the destination, reset!
+[INFO] [1681719672.276264, 11040.298000]: Arrive the destination, reset!
+[INFO] [1681719675.377818, 11043.398000]: Arrive the destination, reset!
+[INFO] [1681719678.539377, 11046.558000]: Arrive the destination, reset!
+
+-------------------- Iteration #174 --------------------
+Average Episodic Length: 144.73
+Average Episodic Return: 20.69
+Average Loss: -0.00317
+Timesteps So Far: 384769
+Iteration took: 0.0 secs
+------------------------------------------------------
+
+[INFO] [1681719678.579404, 11046.598000]: Arrive the destination, reset!
+[INFO] [1681719681.521312, 11049.538000]: Arrive the destination, reset!
+[INFO] [1681719684.622855, 11052.638000]: Arrive the destination, reset!
+[INFO] [1681719687.724440, 11055.738000]: Arrive the destination, reset!
+[INFO] [1681719690.706181, 11058.718000]: Arrive the destination, reset!
+[INFO] [1681719693.847466, 11061.858000]: Arrive the destination, reset!
+[INFO] [1681719696.889013, 11064.898000]: Arrive the destination, reset!
+[INFO] [1681719699.891059, 11067.898000]: Arrive the destination, reset!
+[INFO] [1681719702.832706, 11070.838000]: Arrive the destination, reset!
+[INFO] [1681719705.834952, 11073.838000]: Arrive the destination, reset!
+[INFO] [1681719708.878023, 11076.878000]: Arrive the destination, reset!
+[INFO] [1681719711.839017, 11079.838000]: Arrive the destination, reset!
+[INFO] [1681719715.060633, 11083.058000]: Arrive the destination, reset!
+[INFO] [1681719718.363115, 11086.358000]: Arrive the destination, reset!

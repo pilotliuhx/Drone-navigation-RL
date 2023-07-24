@@ -1,0 +1,2 @@
+This is the supplementary materials of paper "Model-free Guidance Method for Drones in Complex Envi-ronments using Direct Policy Exploration and Optimization" from Chiba University, Suzuki Lab, Liu Hongxun.
+The whole project has many files, we are collecting them and this project will be completed soon.
